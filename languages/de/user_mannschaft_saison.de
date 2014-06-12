@@ -1,0 +1,23 @@
+<?php
+
+
+$lang_fixture           = "Spielpaarungen f&uuml;r";
+$lang_date              = "Datum";
+$lang_matchday          = "Spieltag";
+$lang_hometeam          = "Heimmannschaft";
+$lang_guestteam         = "Gastmannschaft";
+$lang_result            = "Ergebnis";
+$lang_seefixture        = "Paarungen einsehen f&uuml;r:";
+$lang_matches           = "Spiele";
+$lang_won               = "g";
+$lang_deuce             = "u";
+$lang_lost              = "v";
+$lang_goals             = "Tore";
+$lang_difference        = "Diff.";
+$lang_points            = "Punkte";
+$lang_gesamt            = "Gesamt";
+$lang_outwards          = "Ausw&auml;rts";
+$lang_home              = "Heim";
+
+
+?>

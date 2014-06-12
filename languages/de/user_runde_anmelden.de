@@ -1,0 +1,16 @@
+<?php
+
+$lang_okay              = "Das hat geklappt";
+$lang_youaremember      = "Du wurdest erfolgreich bei der Tipprunde angemeldet";
+$lang_goahead           = "Weiter";
+$lang_joincommunity     = "Bei einer Tipprunde anmelden";
+$lang_jointext          = "Es folgt eine Auflistung aller hier registrierter Tipprunden, bei denen Du (theoretisch) mitspielen kannst. <br>";
+$lang_jointext         .= "Um Dich bei einer Tipprunde anzumelden ben&ouml;tigst Du allerdings das richtige <i>Rundenpasswort</i>.";
+$lang_iliketojoin       = "Ich m&ouml;chte mich anmelden bei Tipprunde:";
+$lang_join              = "anmelden bei";
+$lang_password          = "Passwort";
+$lang_buttonjoin        = "Anmelden";
+$lang_wrongpwd          = "FALSCHES Passwort eingegeben f&uuml;r Runde";
+
+
+?>

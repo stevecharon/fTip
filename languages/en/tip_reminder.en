@@ -1,0 +1,8 @@
+<?php
+
+$lang_mailsubject           = "[fTip] don`t forget to set your picks....";
+$lang_mailsenttouser        = "Remindmail has been sent to user";
+$lang_remindoff             = "Remindfunction is turned off (Admin-Menu)...<br>No mails have been sent!!!";
+
+
+?>

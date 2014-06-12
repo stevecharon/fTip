@@ -1,0 +1,42 @@
+fTip - Languages
+================
+
+
+
+
+ADD A NEW LANGUAGE:
+-------------------
+
+to add a new language, do the following:
+
+
+
+1. open your mysql-database "ftip" (e.g. via phpmyadmin)
+
+
+2. go to table "languages" and insert your new language, where
+    - "language" is your new language, written in nativ, e.g. "Francaise" or "Polski"
+    - "suffix" is the language suffix, e.g. "fr" for french or "nl" for netherlands
+    
+
+3. go to filesystemfolder  ftip/languages/   and create a new folder, named with the suffix 
+   of the language you entered in mysql, e.g. "fr" for french or "nl" for netherlands 
+   
+
+4. look which files exist in folder "en" (english), and copy them all into your new folder
+
+
+5. replace the suffix of every copied file from ".en" to ".YOURSUFFIX" (e.g. ".fr" or ".nl")
+
+
+6. open every file and translate them from english into your language
+
+
+7. please commit your new language-folder to the fTip-project (maybe via CVS) on sourceforge
+   http://sourceforge.net/projects/ftip
+   
+   
+
+Have Fun !
+;-)
+

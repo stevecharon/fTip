@@ -1,0 +1,17 @@
+<?php
+
+
+$lang_Willkommen    = "Willkommen";
+$lang_pwdmissmatch  = "Die Passw&ouml;rter stimmen nicht &uuml;berein!";
+$lang_login         = "Bitte melden Sie sich an....";
+$lang_username      = "Benutzername&nbsp;&nbsp;";
+$lang_password      = "Passwort&nbsp;&nbsp;";
+$lang_buttonno      = "ach nee";
+
+$lang_registernew1  = "Wer noch keine Zugangsdaten besitzt kann sich<br> hier als ";
+$lang_registernew2  = "neuer Benutzer registrieren";
+$lang_registernew3  = "lassen";
+
+$lang_global_msg = "Setzte bitte <b>register_globals = on</b> in deiner php.ini!";
+
+?>

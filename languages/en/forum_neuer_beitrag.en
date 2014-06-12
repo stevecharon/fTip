@@ -1,0 +1,21 @@
+<?php
+
+
+$lang_thetitel      = "fTip Discussionforum";
+
+$lang_created       = "Your thread has been created";
+$lang_havealook     = "look at it";
+
+$lang_board         = "board";
+$lang_createnew     = "Create a new thread in ";
+$lang_buttoncreate  = "create thread";
+
+$lang_threadtitle   = "Title";
+$lang_addsmileys    = "To add a smiley, please use the shortcut-tag";
+$lang_showallsmile  = "show all smileys";
+
+
+
+
+
+?>

@@ -1,0 +1,12 @@
+<?php
+
+
+
+// diese variablen kommen als solche auch in der datei
+// forum_start.de vor....
+
+$lang_mainboard     = "allgemeine fTip";
+$lang_storyboard    = "Fu&szlig;ball-Geschichten";
+$lang_cafeboard     = "fTip Cafe";
+
+?>

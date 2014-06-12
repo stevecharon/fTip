@@ -1,0 +1,42 @@
+<?php
+
+
+
+
+$lang_userkickedfromgroup   = "Raus aus Runde ";
+$lang_useraddedtogroup      = "Rein in Runde";
+$lang_usernamechanged       = "Username ge&auml;ndert in";
+$lang_usernameinuse1        = "Username";
+$lang_usernameinuse2        = "ist bereits vergeben !";
+$lang_pwdchanged            = "Password  ge&auml;ndert...";
+$lang_mailchanged           = "Email ge&auml;ndert in";
+$lang_remindon              = "Remindfunktion <b>ein</b>geschaltet...";
+$lang_remindoff             = "Remindfunktion <b>aus</b>geschaltet...";
+$lang_mailsubject           = "[fTip] Der Administrator laesst wissen...";
+$lang_mailsent              = "Email versendet....";
+$lang_mailnotsent           = "KEINE Email versendet, da keine Adresse mehr....";
+
+
+$lang_usersettings          = "Einstellungen f&uuml;r User";
+$lang_username              = "Username";
+$lang_userpwd               = "neues Passwort";
+$lang_mailaddress           = "E-Mail-Adresse";
+$lang_reminder              = "Reminder";
+$lang_yes                   = "Ja";
+$lang_no                    = "Nein";
+
+$lang_submitbutton          = "OK";
+$lang_buttonchange          = "&Auml;ndern";
+
+$lang_groupmembership       = "Tiprunden-Teilnahme";
+$lang_ismember              = "Nimmt teil";
+$lang_ismembertxt           = "H&auml;kchen = Entfernen";
+$lang_isnomember            = "Nimmt nicht teil";
+$lang_isnomembertxt         = "H&auml;kchen = Anmelden";
+
+$lang_sendmailtouser        = "Mail an User";
+$lang_mailreplace           = "Ersetzt werden: USER - EMAIL - URL";
+$lang_buttonsendmail        = "Nachricht absenden";
+
+
+?>

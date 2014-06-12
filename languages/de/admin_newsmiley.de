@@ -1,0 +1,19 @@
+<?php
+
+
+
+$lang_taginuse          = "bereits vorhande";
+$lang_taghaschanged     = "hat sich ge&auml;ndert";
+$lang_newsmiley         = "Dieses Smiley ist neu";
+$lang_nonewsmiley       = "keine neuen Smileys hinzugekommen";
+$lang_buttonsubmit      = "Smiley/TAG hinzuf&uuml;gen";
+$lang_withouttag        = "Dieses Smiley ist ohne TAG";
+$lang_buttonchangetag   = "Tags &auml;ndern";
+$lang_showallsmileys    = "Gesamtliste ansehen";
+$lang_changesmiletag    = "Smile-TAGs ver&auml;ndern";
+
+
+
+
+
+?>

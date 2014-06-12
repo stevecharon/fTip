@@ -1,0 +1,42 @@
+<?php
+
+$lang_f_oclock      = "Uhr";
+$lang_f_januar      = "Januar";
+$lang_f_februar     = "Februar";
+$lang_f_march       = "M&auml;rz";
+$lang_f_april       = "April";
+$lang_f_may         = "Mai";
+$lang_f_june        = "Juni";
+$lang_f_july        = "Juli";
+$lang_f_august      = "August";
+$lang_f_september   = "September";
+$lang_f_october     = "Oktober";
+$lang_f_november    = "November";
+$lang_f_december    = "Dezember";
+
+$lang_f_monday      = "Montag";
+$lang_f_tuesday     = "Dienstag";
+$lang_f_wednesday   = "Mittwoch";
+$lang_f_thursday    = "Donnerstag";
+$lang_f_friday      = "Freitag";
+$lang_f_saturday    = "Samstag";
+$lang_f_sunday      = "Sonntag";
+
+$lang_f_mailtail1   = "Beste Gruesse,";
+$lang_f_mailtail2   = "Dein fTip-Daemon";
+$lang_f_mailtail3   = "Diese Mail wurde erstellt";
+$lang_f_mailtail4   = "installiert auf";
+
+
+$lang_f_selectmatchday  = "W&auml;hle einen Spieltag aus.";
+$lang_f_currentmatchday = "Aktueller Spieltag";
+
+$lang_f_matchday          = "Spieltag";
+$lang_f_date              = "Datum";
+$lang_f_hometeam          = "Heim";
+$lang_f_guestteam         = "Gast";
+$lang_f_goals             = "Tore";
+
+$lang_f_submitbutton      = "Weiter";
+
+?>

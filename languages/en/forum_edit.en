@@ -1,0 +1,22 @@
+<?php
+
+
+
+$lang_changessaved  = "changes have been saved....";
+$lang_showmypost    = "have a look";
+
+
+$lang_thetitel      = "fTip Discussionforum";
+$lang_editposting   = "edit posting";
+$lang_addsmileys    = "To add a smiley, please use the shortcut-tag";
+$lang_showallsmile  = "show all smileys";$lang_onlyyourown   = "Du darfst nur Deine eigenen Beitr&auml;ge bearbeiten";
+$lang_buttonsaveit  = "save changes";
+
+
+
+
+
+
+
+
+?>

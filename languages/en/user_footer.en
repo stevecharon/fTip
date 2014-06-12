@@ -1,0 +1,7 @@
+<?php
+
+$lang_programmedby  = "programmed by Durchfall-Crew";
+$lang_installedon   = "This version is installed on ";
+
+
+?>

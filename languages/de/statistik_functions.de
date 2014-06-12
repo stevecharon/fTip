@@ -1,0 +1,32 @@
+<?php
+
+
+$lang_f_yourrank        = "Du bist auf Platz";
+$lang_f_nextrank        = "Abstand auf Platz";
+$lang_f_points          = "Punkt(e)";           // maybe plural
+$lang_f_points2         = "Punkte";             // plural
+$lang_f_points3         = "Punkten";            // Akkusativ
+$lang_f_firstrank       = "Abstand auf Platz 1";
+$lang_f_meanpoints      = "Bisher holst Du im Schnitt";
+$lang_f_pointsperday    = "Punkte pro Spieltag";
+$lang_f_bestmean        = "Bester Durchschnitt";
+$lang_f_worstmean       = "Miesester Durchschnitt";
+
+$lang_f_allmatches      = "Spiele insgesamt";
+$lang_f_one             = "Einer";
+$lang_f_two             = "Zweier";
+$lang_f_three           = "Dreier";
+$lang_f_zero            = "Nuller";
+
+
+$lang_f_mybestresult    = "Mein bestes Ergebnis";
+$lang_f_myworstresult   = "Mein schlechtestes Ergebnis";
+$lang_f_thebestresult   = "Bestes Ergebnis erziehlte(n) mit";
+$lang_f_theworstresult  = "Schlechtestes Ergebnis erziehlte(n) mit";
+
+$lang_f_matchday        = "Spieltag";
+
+$lang_f_pointsperteam   = "Punkte durch Teams";
+
+
+?>

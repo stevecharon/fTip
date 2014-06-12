@@ -1,0 +1,139 @@
+<?php
+
+
+//--------------- Nationalmannschaften --------------------
+$langteam_germany            	= "Deutschland";
+$langteam_argentinia			= "Argentinien";
+$langteam_belgien				= "Belgien";
+$langteam_brasil				= "Brasilien";
+$langteam_china					= "China";
+$langteam_costarica				= "Costa Rica";
+$langteam_denmark				= "D&auml;nemark";
+$langteam_ecuador				= "Ecuador";
+$langteam_england				= "England";
+$langteam_france				= "Frankreich";
+$langteam_greak					= "Griechenland";
+$langteam_netherlands			= "Holland";
+$langteam_irland				= "Irland";
+$langteam_italy					= "Italien";
+$langteam_japan					= "Japan";
+$langteam_kamerun				= "Kamerun";
+$langteam_croatia				= "Kroatien";
+$langteam_mexico				= "Mexiko";
+$langteam_nigeria				= "Nigeria";
+$langteam_paraguay				= "Paraguay";
+$langteam_poland				= "Polen";
+$langteam_portugal				= "Portugal";
+$langteam_rumania				= "Rum&auml;nien";
+$langteam_russia				= "Russland";
+$langteam_saudiarabia			= "Saudi-Arabien";
+$langteam_schweden				= "Schweden";
+$langteam_senegal				= "Senegal";
+$langteam_slowenia				= "Slowenien";
+$langteam_spain					= "Spanien";
+$langteam_southafrica			= "S&uuml;dafrika";
+$langteam_soutchcorea			= "S&uuml;dkorea";
+$langteam_tschechien			= "Tschechien";
+$langteam_tunesien				= "Tunesien";
+$langteam_turk					= "T&uuml;rkei";
+$langteam_uruguay				= "Uruguay";
+$langteam_unitedstates			= "USA";
+$langteam_bulgaria				= "Bulgarien";
+$langteam_lettland				= "Lettland";
+$langteam_swiss					= "Schweiz";
+$langteam_trinitobago           = "Trinidad-Tobago";
+$langteam_elfenbeink            = "Elfenbeink&uuml;ste";
+$langteam_serbienmonte          = "Serbien-Montenegro";
+$langteam_iran                  = "Iran";
+$langteam_angola                = "Angola";
+$langteam_ghana                 = "Ghana";
+$langteam_australien            = "Australien";
+$langteam_togo                  = "Togo";
+$langteam_ukraine               = "Ukraine";
+
+
+
+//----------------Bundesliga----------------------------
+$langteam_schalke            	= "FC Schalke 04";
+$langteam_dortmund           	= "Borussia Dortmund 09";
+$langteam_bleverkusen        	= "Bayer Leverkusen";
+$langteam_bayernmunic 			= "Bayern M&uuml;nchen";
+$langteam_herthabsc 			= "Hertha BSC";
+$langteam_wbremen			 	= "Werder Bremen";
+$langteam_kaiserslautern		= "1.FC Kaiserslautern";
+$langteam_vfbstuttgart			= "VfB Stuttgart";
+$langteam_1860munic 			= "1860 M&uuml;nchen";
+$langteam_vflwolfsburg			= "VfL Wolfsburg";
+$langteam_hamburgersv			= "Hamburger SV";
+$langteam_bgladbach				= "Borussia M.Gladbach";
+$langteam_ecottbus				= "Energie Cottbus";
+$langteam_hrostock				= "Hansa Rostock";
+$langteam_fcnurnberg			= "1.FC N&uuml;rnberg";
+$langteam_scfreiburg			= "SC Freiburg";
+$langteam_fccologne				= "1.FC K&ouml;ln";
+$langteam_stpauli				= "FC St. Pauli";
+$langteam_vflbochum				= "Vfl Bochum";
+$langteam_hannover96			= "Hannover 96";
+$langteam_abielefeld			= "Arminia Bielefeld";
+$langteam_eintfrankfurt			= "Eintracht Frankfurt";
+$langteam_aaachen				= "Alemania Aachen";
+$langteam_rwoberhausen 			= "RW Oberhausen";
+$langteam_fsvmainz				= "FSV Mainz 05";
+$langteam_greutherfuerth		= "Greuther F&uuml;rth";
+$langteam_msvduisburg			= "MSV Duisburg";
+$langteam_svwburghausen			= "SVW Burghausen";
+$langteam_etrier				= "Eintracht Trier";
+$langteam_vfblubeck				= "VfB L&uuml;beck";
+$langteam_unionberlin			= "1.FC Union Berlin";
+$langteam_ssvreutlingen			= "SSV Reutlingen";
+$langteam_lrahlen				= "LR Ahlen";
+$langteam_karlsruhersc			= "Karlsruher SC";
+$langteam_ebraunschweig			= "Eintr. Braunschweig";
+$langteam_svwmannheim			= "SVW Mannheim";
+$langteam_spvgghaching			= "SpVgg Unterhaching";
+$langteam_dyndresden			= "Dynamo Dresden";
+$langteam_fcsaarbrucken			= "1. FC Saarbr&uuml;cken";
+$langteam_rwerfurt				= "RW Erfurt";
+$langteam_rwessen				= "RW Essen";
+$langteam_erzaue				= "Erzgebirge Aue";
+$langteam_vflosnabruck			= "VFL Osnabr&uuml;ck";
+$langteam_preusmunster			= "Preu&szlig;en M&uuml;nste";
+$langteam_stuttkickers			= "Stuttgarter Kickers";
+
+
+//-----------------------------------------------------------
+
+
+$langteam_asrom					= "AS Rom";
+$langteam_boavporto				= "Boavista Porto";
+$langteam_cglasgow				= "Celtic Glasgow";
+$langteam_dplcoruna				= "Deportivo La Coruna";
+$langteam_dynamokiew			= "Dynamo Kiew";
+$langteam_fcarsenal				= "FC Arsenal";
+$langteam_fcbarcelona			= "FC Barcelona";
+$langteam_fcliverpool			= "FC Liverpool";
+$langteam_fcnantes				= "FC Nantes";
+$langteam_fcporto				= "FC Porto";
+$langteam_fenerbistanbul		= "Fenerbahce Istanbul";
+$langteam_feyenoord				= "Feyenoord";
+$langteam_galatistanbul			= "Galatasaray Istanbul";
+$langteam_juveturin				= "Juventus Turin";
+$langteam_laziorom				= "Lazio Rom";
+$langteam_lokmoskau				= "Lokomotive Moskau";
+$langteam_manchesteru			= "Manchester United";
+$langteam_olymppirau			= "Olympiakos Pir&auml;u";
+$langteam_olymplyon				= "Olympique Lyon";
+$langteam_osclille				= "OSC Lille";
+$langteam_panathen				= "Panathinaikos Athen";
+$langteam_psveindhoven			= "PSV Eindhoven";
+$langteam_rcdmallorca			= "RCD Mallorca";
+$langteam_realmadrid			= "Real Madrid";
+$langteam_rtrondheim			= "Rosenborg Trondheim";
+$langteam_rscanderlecht			= "RSC Anderlecht";
+$langteam_spartaprag			= "Sparta Prag";
+$langteam_spartakmoskau			= "Spartak Moskau";
+
+
+
+
+?>

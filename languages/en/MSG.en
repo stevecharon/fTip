@@ -1,0 +1,14 @@
+<?php
+
+
+$lang_success       = "SUCCESS !!!";
+
+$lang_matchis1      = "Some matches are still going on !<br>(...or have been finished...)<br><br>That's why for some matches <br>your picks";
+$lang_matchis2      = "can not";
+$lang_matchis3      = "be edited !";
+$lang_matchis4      = "As soon as we have match-results, you can <br> have a look on the points you scored.";
+
+$lang_pwdmissmatch  = "password missmatch !";
+
+
+?>

@@ -1,0 +1,12 @@
+<?php
+
+
+$lang_taginuse      = "already in use";
+$lang_taghaschanged = "has changed..";
+$lang_saved         = "saved...";
+$lang_wholelist     = "show all smileys";
+$lang_addsmiley     = "add new smileys";
+$lang_shortcut      = "tag";
+$lang_buttonchange  = "change tags";
+
+?>

@@ -1,0 +1,29 @@
+<?php
+
+$lang_matchday          = "Spieltag";
+$lang_kickoff           = "Datum / Ansto&szlig;";
+$lang_hometeam          = "Heim-Mannschaft";
+$lang_guestteam         = "Gast-Mannschaft";
+$lang_result            = "Ergebnis";
+$lang_buttonsave        = "&Auml;nderungen speichern";
+$lang_calcchampion      = "Meisterpunkte berechnen";
+$lang_startBerND        = "BundesligaErgebnisNachrichtenDienst starten";
+
+
+$lang_calculating       = "Ich berechne nun die Punkte f&uuml;r Wettkampf";
+$lang_calculatingchanp  = "Ich berechne nun die Meisterpunkte f&uuml;r Wettkampf";
+$lang_nowinner          = "KEIN SIEGERTEAM VORHANDEN";
+$lang_calculatewinner   = "ermittle Siegerteam";
+$lang_lastmatch         = "ENDSPIEL noch nicht beendet !.....<br>abgebrochen....";
+$lang_champis           = "Meisterteam ist";
+$lang_savedtodb         = "gespeichert";
+$lang_igoon             = "berechne Punkte f&uuml;r User";
+$lang_youcanscore       = "Punkte zu vergeben sind";
+
+
+$lang_pleasewait        = "bitte warten";
+$lang_done              = "FERTIG!!!";
+
+
+
+?>

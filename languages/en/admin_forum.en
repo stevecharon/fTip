@@ -1,0 +1,18 @@
+<?php
+
+
+$lang_forumnowonline        = "Forum is now <b>on</b>line";
+$lang_forumnowoffline       = "Forum is now <b>off</b>line";
+$lang_forumsettings         = "Forum-Settings";
+$lang_forumstatus           = "Forum is";
+
+$lang_online                = "online";
+$lang_offline               = "offline";
+
+$lang_addsmileys            = "add smileys automaticaly";
+$lang_editsmileys           = "edit smileylist";
+$lang_showallsmileys        = "show all smileys";
+$lang_buttonchange          = "Change";
+
+
+?>

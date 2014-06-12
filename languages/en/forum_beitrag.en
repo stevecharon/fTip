@@ -1,0 +1,30 @@
+<?php
+
+
+$lang_thetitel      = "fTip Discussionforum";
+$lang_the           = "The";
+$lang_board         = "board";
+
+$lang_threadcreated = "answer created";
+$lang_goback        = "back to boardselection";
+
+$lang_initialpost   = "initial posting";
+$lang_answernum     = "Answer Nr";
+$lang_totalclicks   = "total clicks";
+$lang_numofposts    = "total postings";
+$lang_reggedsince   = "here since";
+
+
+$lang_editposting   = "edit posting";
+$lang_killposting   = "delete posting";
+$lang_moveposting   = "move thread";
+
+$lang_writeanswer   = "write an answer";
+$lang_answertitle   = "title";
+$lang_answerbutton  = "write answer";
+
+$lang_addsmileys    = "To add a smiley, please use the shortcut-tag";
+$lang_showallsmile  = "show all smileys";
+
+
+?>

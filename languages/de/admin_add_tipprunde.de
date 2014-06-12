@@ -1,0 +1,21 @@
+<?php
+
+
+
+$lang_groupinuse        = "Diese Tiprunde gibt es schon !";
+
+$lang_tryanother        = "nochmal versuchen";
+
+
+$lang_newgroup1         = "Tiprunde";
+$lang_newgroup2         = "wurde angelegt... Wettkampfteilnahme (IDs):";
+
+$lang_addgroup          = "Neue Tiprunde anlegen";
+$lang_groupname         = "Name";
+$lang_grouppwd          = "Passwort";
+$lang_buttonsubmit      = "Anmelden";
+
+
+
+
+?>

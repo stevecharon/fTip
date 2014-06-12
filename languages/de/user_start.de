@@ -1,0 +1,45 @@
+<?php
+
+
+$lang_hello         = "Hallo";
+$lang_welcome       = "Herzlich Willkommen bei";
+$lang_welcome2      = "Die folgenden Abschnitte leiten Dich durch die ersten Klicks auf den fTip-Seiten. <br>Alle Funktionen sind aber auch oben im Seiten-Kopf per Link erreichbar.";
+
+$lang_communities   = "Tipprunden";
+$lang_communitext   = "Hier siehst Du eine &Uuml;bersicht der Tipprunden, bei denen Du mitspielst. Klicke auf eine der Tipprunden, um deine Platzierung unter den Mitspielern einzusehen.";
+$lang_nocommunity   = "Noch spielst Du bei<br>&nbsp; <b>keiner</b> Tiprunde mit !";
+$lang_yourcommunity = "Du nimmst teil bei:";
+$lang_joincommu1    = "Hier kannst du dich bei";
+$lang_joincommu2    = "einer Tipprunde ";
+$lang_joincommu3    = "anderen Runden ";
+$lang_joincommu4    = "anmelden";
+
+$lang_competition   = "aktuelle Wettk&auml;mpfe";
+$lang_competitext   = "Ausgehend von den Tipprunden nimmst Du an Wettk&auml;mpfen (wie z.B. EM/WM/Bundesliga...) teil. Klicke auf einen der folgenden Wettk&auml;mpfe, um Deine Tips f&uuml;r die jeweiligen Spiele abzugeben und erworbene Punkte einzusehen. Deine Tipps gelten &uuml;brigens f&uuml;r jede Tipprunde bei der Du mitspielst.";
+$lang_lookcompeti   = "Tips abgeben / Punkte einsehen f&uuml;r:";
+
+$lang_statistics    = "Statistik";
+$lang_stattext1     = "Nach den ersten Spielen kannst Du verschiedene statistische Auswertungen f&uuml;r die einzelnen Tipprunden einsehen, wie z.B.:<br>";
+$lang_stattext1    .= "- Wieviele Punkte holst Du pro Spieltag ? <br>";
+$lang_stattext1    .= "- Wer ist der schlechteste Mitspieler ? <br>";
+$lang_stattext1    .= "- Wie setzen sich Deine Gesamtpunkte zusammen ?<br>";
+$lang_stattext1    .= "- Welche Platzierung hattest Du &uuml;ber die Saision?";
+$lang_stattext2     = "All dies erf&auml;hrst Du auf der ";
+$lang_stattext3     = "Statistik";
+$lang_stattext4     = "-Seite.";
+
+$lang_forum         = "Diskussionsforum";
+$lang_forumtext1    = "Du kannst Dich mit den anderen Usern der Seite im fTip-eigenen Diskussionsforum austauschen. Eine zus&auml;tzliche Anmeldung oder Registrierung ist nicht notwendig. Jede Tipprunde hat ihr eigenes <i>Board</i>, in welche auch bitte nur die jeweiligen Runden-Teilnehmer hineinschreiben (sollten). Das Forum ist auch der richtige Ort f&uuml;r Feedbacks, Fragen, Kritik, Anregungen und alles weitere..";
+$lang_forumtext2    = "Hier gelangst Du ins";
+$lang_forumtext3    = "Forum";
+
+$lang_hofarchive    = "Archiv und HallOfFame";
+$lang_archivtext1   = "Jede Tipprunde hat ein eigenes Archiv und eine HallOfFame-Seite. <br><br>Im ";
+$lang_archivtext2   = "Archiv";
+$lang_archivtext3   = "kannst Du Deine Punkte und Tipps zu abgeschlossenen, alten Wettk&auml;mpfen einsehen, bei denen Du teilgenommen hast.";
+$lang_hoftext1      = "Die ";
+$lang_hoftext2      = "HallOfFame";
+$lang_hoftext3      = "z&auml;hlt die Punkte aus allen Wettk&auml;mpfen zusammen, und zeigt sozugaen die <i>Ewigen-Besten-Liste</i> der einzelnen Tipprunden an.";
+
+
+?>

@@ -1,0 +1,27 @@
+<?php
+
+
+
+
+
+
+
+$lang_usernameinuse     = "Diesen Usernamen gibt es schon !";
+
+$lang_tryanother        = "nochmal versuchen";
+
+
+$lang_newuser1          = "Benutzer";
+$lang_newuser2          = "wurde angelegt... Tipprundenteilnahme (IDs):";
+$lang_mailsubject       = "[fTip] Registrierung bei fTip";
+$lang_mailsent          = "Wilkommens-Email versendet an Adresse:";
+
+$lang_addnewuser        = "Neuen User anlegen";
+
+$lang_username          = "Name";
+$lang_usermail          = "E-Mail";
+
+$lang_buttonsubmit      = "Anmelden";
+
+
+?>

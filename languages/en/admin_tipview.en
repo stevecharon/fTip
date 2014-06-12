@@ -1,0 +1,14 @@
+<?php
+
+
+$lang_mailsubject           = "[fTip] don`t forget to set your picks....";
+$lang_mailsenttouser        = "Remindmail was sent to user(s)";
+
+$lang_selectcompetition     = "Select competition";
+$lang_matchdaypicks         = "See picks of matchday";
+$lang_hassetpicks           = "has set picks";
+$lang_hasnotsetpicks        = "has not set picks";
+$lang_buttonmailremind      = "send remindmail";
+
+
+?>

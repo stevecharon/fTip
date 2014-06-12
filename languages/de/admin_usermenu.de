@@ -1,0 +1,27 @@
+<?php
+
+$lang_usernamechanged1  = "Username";
+$lang_usernamechanged2  = "ge&auml;ndert in";
+
+$lang_nameinuse1        = "Username";
+$lang_nameinuse2        = "ist bereits vergeben !";
+
+$lang_mailchanged1      = "Email f&uuml;r User";
+$lang_mailchanged2      = "ge&auml;ndert in";
+
+$lang_pwdchanged        = "Passwort ge&auml;ndert f&uuml;r User";
+
+$lang_deleteuser        = "User wurde gel&ouml;scht";
+
+$lang_usermenu          = "Usermen&uuml;";
+$lang_numberofusers     = "Anzahl der User";
+$lang_delete            = "del";
+$lang_edit              = "edit";
+$lang_username          = "Username";
+$lang_newpwd            = "neues Passwort";
+$lang_email             = "E-Mail Adresse";
+$lang_heresince         = "dabei seit";
+$lang_buttonchange      = "Klicke hier um Deine &Auml;nderungen abzuspeichern";
+
+
+?>

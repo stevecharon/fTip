@@ -1,0 +1,15 @@
+<?php
+
+
+$lang_thetitel      = "Das fTip Forum";
+$lang_the           = "Das";
+$lang_board         = "Board";
+
+
+$lang_goback        = "zur&uuml;ck zur Forum-Auswahl";
+$lang_postnewone    = "Neuen Beitrag erstellen";
+
+
+
+
+?>

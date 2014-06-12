@@ -1,0 +1,31 @@
+<?php
+
+$lang_register      = "Register as a new user";
+$lang_newuser1      = "Your username";
+$lang_newuser2      = "was accepted, and an e-mail containing your temporary login-datas was sent to your mailadress ";
+$lang_newuser3      = ". As soon, as you recieve this mail, click on this ";
+$lang_newuser4      = "link";
+$lang_newuser5      = "and confirm your registration.";
+
+$lang_usermail1     = "registration-data for fTip";
+$lang_usermail2     = "Hello ";
+$lang_usermail3     = "It is nice to see, that you are interested in joining the fTip-system.";
+$lang_usermail4     = "This mail contains your temporary login-datas. ";
+$lang_usermail5     = "Your login-datas are: ";
+$lang_usermail6     = "username: ";
+$lang_usermail7     = "password: ";
+$lang_usermail8     = "Please, follow this link: ";
+$lang_usermail9     = "for completing your registration.";
+$lang_usermail10    = "regards,  \r\n your fTip-Daemon ";
+
+$lang_erroruser1    = "The username ";
+$lang_erroruser2    = "is already in use... Please create yourself another username..";
+$lang_errormail     = "No email-address given...";
+
+$lang_hellouser     = "fTip welcomes you.  It is nice to see, that you are interested in joining our system. For registering, please create yourself an username and give us an email-adress.";
+
+$lang_reguser       = "username: ";
+$lang_regmail       = "email: ";
+$lang_button        = "register";
+
+?>

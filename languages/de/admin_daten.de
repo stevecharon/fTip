@@ -1,0 +1,101 @@
+<?php
+
+
+$lang_langchange        = "Admin-Sprache wurde ge&auml;ndert auf:";
+$lang_globallangchange  = "globale Sprache wurde ge&auml;ndert auf:";
+
+$lang_adminpicchange1   = "Dein Adminbild wurde erneuert !";
+$lang_adminpicchange2   = "Die &Auml;nderung wird nach dem n&auml;chsten";
+$lang_adminpicchange3   = "Klick";
+$lang_adminpicchange4   = "sichtbar...";
+
+$lang_selectadminpic    = "W&auml;hle ein Bild aus...";
+
+$lang_testmailsubject   = "[fTip] TESTMAIL";
+$lang_testmailbody      = "fTip - Testmail... \r\n";
+$lang_testmailbody     .= "hat's geklappt ?! \r\n \r\n"; 
+$lang_testmailbody     .= "versendet:";
+
+$lang_testmailtext1     = "Testmail wurde mit Absender";
+$lang_testmailtext2     = "an";
+$lang_testmailtext3     = "versendet.";
+
+$lang_mysqldumpstart    = "<b>MySQL Dump</b> gestartet...";
+$lang_mysqldumpfailed   = "Datenbank-Dump ist fehlgeschlagen !!!!";
+$lang_mysqldumpdone     = "fertig !";
+$lang_mysqldumpgzip     = "Datei wird komprimiert (gzip)";
+$lang_mysqlgzipfailed   = "KOMPRIMIERUNG fehlgeschlagen !!!!";
+$lang_downloadnogzip1   = "Hier kannst Du aber immerhin das <i>unkomprimierte</i> dump-File";
+$lang_downloadnogzip2   = "downloaden";
+$lang_downloaddump1     = "Hier kannst Du das komprimierte dump-File";
+$lang_downloaddump2     = "downloaden";
+
+$lang_teamlogofeder     = "Mannschaftsflaggen wurden auf Verbandslogos umgestellt !";
+$lang_teamlogonational  = "Mannschaftsflaggen wurden auf Nationalfahnen umgestellt !";
+
+
+$lang_adminmailchanged  = "neue E-Mail-Adresse :";
+$lang_adminpwdchanged   = "Admin-Passwort ge&auml;ndert.";
+$lang_adminpwdnotchang  = "Passwort wurde <b>nicht</b> erneuert !!<br>Du hast dich wohl vertippt...";
+$lang_newwelcometxt     = "neuer Begr&uuml;ssungstext wurde gespeichert";
+$lang_newremindtxt      = "neuer Erinnerungstext wurde gespeichert";
+$lang_newurl            = "neue URL wurde gespeichert";
+$lang_newlocalpath      = "neuer localfile-Pfad wurde gespeichert";
+$lang_newdaemonmail     = "neue Daemon-Mail-Adresse :";
+$lang_remindon          = "Remind-Funktion wurde <b>ein</b>geschaltet";
+$lang_remindoff         = "Remind-Funktion wurde <b>aus</b>gestellt";
+$lang_jabberturnedon    = "Jabber-Service wurde <b>ein</b>geschaltet";
+$lang_jabberturnedoff   = "Jabber-Service wurde <b>aus</b>gestellt";
+$lang_loggingon         = "Zugriffe werden nun  wieder <b>gespeichert</b>!!!";
+$lang_loggingoff        = "Zugriffe werden nun <b>nicht</b> mehr gespeichert";
+$lang_newjabberaccount  = "neuer Jabber-Daemon-Account :";
+$lang_newjabberpwd      = "Jabber-Daemon-Passwort wurde ge&auml;ndert...";
+$lang_newjabbergroup    = "Jabber-Daemon sendet jetzt in den Groupchat";
+$lang_newWMpoints       = "Weltmeitster-Tip-Punkte ge&auml;ndert auf";
+$lang_newEMpoints       = "Europameitster-Tip-Punkte ge&auml;ndert auf";
+$lang_newBULIpoints     = "Bundesliga-Tip-Punkte ge&auml;ndert auf";
+
+
+
+$lang_admindata         = "Admin-Daten";
+$lang_adminmail         = "E-Mail";
+$lang_adminpassword     = "Admin-Passwort";
+$lang_confirmpassword   = "best&auml;tigen";
+$lang_adminlanguage     = "Admin-Sprache:";
+$lang_buttonok          = "OK";
+$lang_pathnservice      = "Pfade und Dienste";
+$lang_url               = "URL";
+$lang_localfile         = "localfile";
+$lang_maildaemon        = "Mail-Daemon";
+$lang_remindmail        = "Erinnerungsmail";
+$lang_yes               = "ja";
+$lang_no                = "nein";
+$lang_globallang        = "Globale Sprache:";
+$lang_jabberaccount     = "Jabber-Account";
+$lang_jabberpwd         = "Jabber-PWD";
+$lang_jabbergroupchat   = "Groupchat-Room";
+$lang_jabberservice     = "Jabber-Service";
+$lang_on                = "an";
+$lang_off               = "aus";
+$lang_loggclicks        = "Zugriffe speichern";
+$lang_actions           = "Aktionen";
+$lang_mysqldump         = "Datenbank Backup";
+$lang_sendtextmail      = "Testmail";
+$lang_mailnewusers      = "Mail an neue User";
+$lang_mailreplace       = "Ersetzt werden: USER - EMAIL - URL";
+$lang_userremind        = "User Mail-Reminder";
+$lang_remindreplace     = "Ersetzt werden: USER - EMAIL - URL- WKNAME";
+$lang_championpoints    = "Meisterpunkte";
+$lang_worldchampion     = "Weltmeisterschaft";
+$lang_eurochampion      = "Europameisterschaft";
+$lang_bundesliga        = "Bundesliga";
+$lang_buttonchange      = "&Auml;ndern";
+$lang_teamflag          = "Mannschaftsflaggen";
+$lang_currentsetting    = "aktuelle Einstellung:";
+
+$lang_nationalflag      = "Landesflaggen";
+$lang_clubflag          = "Verbandslogos";
+$lang_adminpic          = "Adminbildchen &auml;ndern";
+
+
+?>

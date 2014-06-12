@@ -1,0 +1,13 @@
+<?php
+
+
+
+$lang_thread        = "Beitrag";
+$lang_deleted       = "gel&ouml;scht";
+$lang_goback        = "zur&uuml;ck zum Forum";
+$lang_areyousure1   = "Soll Beitrag";
+$lang_areyousure2   = "wirklich gel&ouml;scht werden ?!?!";
+$lang_areyousuretxt = "Achtung, gel&ouml;schte Bitr&auml;ge k&ouml;nnen <b>nicht</b> wieder hergestellt werden !!";
+$lang_buttondelete  = "Beitrag l&ouml;schen";
+
+?>

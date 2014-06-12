@@ -1,0 +1,46 @@
+<?php
+
+
+$lang_hello         = "Hello";
+$lang_welcome       = "welcome to ";
+$lang_welcome2      = "The following description should guide you through the first steps on the fTip-sites. <br>All functions are available by clicking the links of the site-head, too.";
+
+$lang_communities   = "Groups";
+$lang_communitext   = "Here, you see a list of the groups you are member of. Click on a group for having a look at your ranking.";
+$lang_nocommunity   = "At this time, you are member of <br>&nbsp; <b>no</b> group!";
+$lang_yourcommunity = "You are member of:";
+$lang_joincommu1    = "You can join ";
+$lang_joincommu2    = "a group ";
+$lang_joincommu3    = "another group ";
+$lang_joincommu4    = "here.";
+
+$lang_competition   = "active competitions";
+$lang_competitext   = "Depending on your groups, you are playing active competitions (e.g. EM/WM/Bundesliga...). Click on a competition for managing your picks for matches of the competition and having a look on the points you earned. By the way, your picks are set for every group you are member of.";
+$lang_lookcompeti   = "set picks / see points for:";
+
+
+$lang_statistics    = "Statistics";
+$lang_stattext1     = "After the first matches, you are able to see several staticical rankings for each group, like:<br>";
+$lang_stattext1    .= "- How many points do you earn a matchday ? <br>";
+$lang_stattext1    .= "- Who is the best/worst group-player ? <br>";
+$lang_stattext1    .= "- How are your total points set together ?<br>";
+$lang_stattext1    .= "- which rankings did you get over the season ?";
+$lang_stattext2     = "All these informations are collected on the ";
+$lang_stattext3     = "statistic";
+$lang_stattext4     = "-site.";
+
+$lang_forum         = "Discussionforum";
+$lang_forumtext1    = "You can talk with other group-members in the fTip-discussionforum. You don't have to login or register again for that. Every group has its own <i>board</i>, in which only group-members should post. The forum is the right place for feedbacks, questions, support-requests, ideas and so on..<br>";
+$lang_forumtext2    = "This link brings you to the";
+$lang_forumtext3    = "forum";
+
+$lang_hofarchive    = "Archive und HallOfFame";
+$lang_archivtext1   = "Every group has its own archive and HallOfFame. <br><br>The ";
+$lang_archivtext2   = "archive";
+$lang_archivtext3   = "shows picks and points of done and old competitions, you have played with.";
+$lang_hoftext1      = "The ";
+$lang_hoftext2      = "HallOfFame";
+$lang_hoftext3      = "cummulates all points of all competitions, and shows the <i>eternal-best-list</i> for every group.";
+
+
+?>

@@ -1,0 +1,22 @@
+<?php
+
+
+$lang_thetitel      = "Das fTip Forum";
+
+$lang_created       = "Neuer Beitrag wurde erstellt";
+$lang_havealook     = "Beitrag ansehen";
+
+$lang_board         = "Board";
+$lang_createnew     = "Neuen Beitrag erstellen f&uuml;r das";
+$lang_buttoncreate  = "Beitrag erstellen";
+
+$lang_threadtitle   = "Titel";
+$lang_addsmileys    = "Um Smileys in den Beitrag einzuf&uuml;gen verwende die entsprechenden Abk&uuml;rzungen";
+$lang_showallsmile  = "Alle Smileys ansehen";
+
+
+
+
+
+
+?>

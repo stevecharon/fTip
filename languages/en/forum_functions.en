@@ -1,0 +1,11 @@
+<?php
+
+
+// these variables appear in "forum_start.en", too
+
+
+$lang_mainboard     = "main fTip";
+$lang_storyboard    = "Soccer-Stories";
+$lang_cafeboard     = "fTip Cafe";
+
+?>

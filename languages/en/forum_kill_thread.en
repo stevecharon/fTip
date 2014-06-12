@@ -1,0 +1,13 @@
+<?php
+
+
+
+$lang_thread        = "Thread";
+$lang_deleted       = "deleted";
+$lang_goback        = "go back to forum";
+$lang_areyousure1   = "Are you sure, that thread";
+$lang_areyousure2   = "should be deleted ?!?!";
+$lang_areyousuretxt = "Cave, there is <b>no way</b> to recover deleted threads !!";
+$lang_buttondelete  = "delete thread";
+
+?>

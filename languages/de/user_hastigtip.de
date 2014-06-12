@@ -1,0 +1,8 @@
+<?php
+
+$lang_durchschnitt      = "Durchschnitt:";
+$lang_gesamtschnitt     = "Gesamtschnitt";
+$lang_nomatch           = "";
+
+
+?>

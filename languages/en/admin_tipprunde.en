@@ -1,0 +1,25 @@
+<?php
+
+
+$lang_kickuser          = "kicked user";
+$lang_adduser           = "added user";
+$lang_kickcompetition   = "kicked competition";
+$lang_addcompetition    = "added competition";
+$lang_newpwd            = "Password has been updated";
+$lang_pwdnotchanged     = "Passwords do not match !</b> Password has not been updated";
+$lang_settings          = "Settings";
+$lang_useroverview      = "Useroverview";
+$lang_registered        = "registered";
+$lang_registeredtxt     = "Checkbox = kick";
+$lang_notregistered     = "not registered";
+$lang_notregisteredtxt  = "Checkbox = register";
+$lang_buttonok          = "OK";
+$lang_warning1          = "Attention !<br>Think first, then change !";
+$lang_warning2          = "You can do a lot of mistakes,<br> if you click without thinking!!!";
+
+$lang_competitions      = "Competitions";
+$lang_grouppwd          = "Group password";
+$lang_confirm           = "please confirm";
+
+
+?>

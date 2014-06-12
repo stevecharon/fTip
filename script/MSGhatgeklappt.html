@@ -1,0 +1,18 @@
+<?php
+//===== Which Language has user set ? =================================
+
+$langsuffix = Whichlanguage($db, $uid);
+include ("../languages/" . $langsuffix . "/MSG." . $langsuffix);
+
+
+?>
+		<table width="300" align="center" border="0" cellspacing="2" cellpadding="0">
+			<tr>
+				<td bgcolor="#5a6fff" width="63"><img src="../img/okay.jpg" alt="VORSICHT" height="108" width="63" border="0"></td>
+				<td>
+					<div align="center">
+						<font size="5" color="#00cc00"><b><?php echo $lang_success ?></b></font></div>
+				</td>
+			</tr>
+		</table>
+	

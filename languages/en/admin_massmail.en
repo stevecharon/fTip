@@ -1,0 +1,17 @@
+<?php
+
+
+$lang_mailsenttouser        = "Mail was sent to users";
+
+$lang_massmail              = "Send massmail";
+$lang_selectgroup           = "Select a group, to which members mail should be sent.";
+$lang_all                   = "all";
+$lang_subject               = "Subject:";
+$lang_text                  = "Text:";
+$lang_replace               = "The synonym &quot;USER&quot; will be replaced with usernames.";
+$lang_hellouser             = "Hello USER ...";
+$lang_buttonsend            = "send mails";
+
+
+
+?>

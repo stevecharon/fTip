@@ -1,0 +1,11 @@
+<?php
+
+
+$lang_offline       = "Discussionforum is offline !";
+$lang_offlinechange = "change it";
+$lang_offlinetext1  = "At this time, discussionforum is";
+$lang_offlinetext2  = "offline";
+$lang_offlinetext3  = "We are sorry...";
+
+
+?>

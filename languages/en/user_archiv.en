@@ -1,0 +1,14 @@
+<?php
+
+
+$lang_selectcommunity   = "Please select a group, for which you want to see <b>archive</b>-datas.";
+$lang_archive           = "Group - Archive";
+$lang_nodonecompetition = "no done competitions available";
+$lang_donecompetition   = "done competitions";
+$lang_competitioninfo   = "please select a competition for further informmation";
+$lang_rank              = "Rank";
+$lang_user              = "User";
+$lang_points            = "Points";
+
+
+?>

@@ -1,0 +1,42 @@
+<?php
+
+
+
+
+$lang_userkickedfromgroup   = "Kicked from group ";
+$lang_useraddedtogroup      = "Added to group ";
+$lang_usernamechanged       = "Username changed to";
+$lang_usernameinuse1        = "Username";
+$lang_usernameinuse2        = "is already in use !";
+$lang_pwdchanged            = "Password  changed...";
+$lang_mailchanged           = "Email changed to";
+$lang_remindon              = "Remindfunction turned <b>on</b>...";
+$lang_remindoff             = "Remindfunction turned <b>off</b>...";
+$lang_mailsubject           = "[fTip] The admin lets you know...";
+$lang_mailsent              = "Email sent....";
+$lang_mailnotsent           = "Email has <b>not</b> been sent, because I don`t have a address....";
+
+
+$lang_usersettings          = "Settings for user";
+$lang_username              = "Username";
+$lang_userpwd               = "new Password";
+$lang_mailaddress           = "E-Mail-Address";
+$lang_reminder              = "Reminder";
+$lang_yes                   = "Yes";
+$lang_no                    = "No";
+
+$lang_submitbutton          = "OK";
+$lang_buttonchange          = "Change";
+
+$lang_groupmembership       = "Groupmembership";
+$lang_ismember              = "Is member of";
+$lang_ismembertxt           = "Checkbox  = kick";
+$lang_isnomember            = "No member of";
+$lang_isnomembertxt         = "Checkbox = add";
+
+$lang_sendmailtouser        = "Send mail to user";
+$lang_mailreplace           = "USER - EMAIL - URL  will be replaced";
+$lang_buttonsendmail        = "send mail";
+
+
+?>

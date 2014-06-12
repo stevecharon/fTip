@@ -1,0 +1,23 @@
+<?php
+
+
+$lang_fixture           = "fixtures for";
+$lang_date              = "date";
+$lang_matchday          = "matchday";
+$lang_hometeam          = "hometeam";
+$lang_guestteam         = "guestteam";
+$lang_result            = "result";
+$lang_seefixture        = "see fixtures for:";
+$lang_matches           = "matches";
+$lang_won               = "w";
+$lang_deuce             = "d";
+$lang_lost              = "l";
+$lang_goals             = "goals";
+$lang_difference        = "diff.";
+$lang_points            = "points";
+$lang_gesamt            = "total";
+$lang_outwards          = "outwards";
+$lang_home              = "home";
+
+
+?>

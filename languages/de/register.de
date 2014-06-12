@@ -1,0 +1,46 @@
+<?php
+
+
+$lang_confirm       = "Best&auml;tigung Deiner Registrierung";
+$lang_newpwdsaved1  = "Dein <b>neues</b> Passwort wurde akzeptiert und gespeichert !!!";
+$lang_newpwdsaved2  = "Denke daran, Dich ab jetzt <b>immer</b> mit Deinem neuen Passwort anzumelden";
+$lang_youreadded    = "Herzlichen Gl&uuml;ckwunsch, Du wurdest <b>erfolgreich</b> dem System hinzugef&uuml;gt, und kannst Dich ab jetzt immer mit Deinem Username und dem ertsellten Passwort einloggen.";
+
+$lang_step1         = "Schritt 1";
+$lang_step2         = "Schritt 2";
+$lang_step3         = "Schritt 3";
+
+$lang_goon1         = "Klicke auf diesen ";
+$lang_goon2         = "Link ";
+$lang_goon3         = "um Dich entg&uuml;ltig mit Deinen neuen Daten einzuloggen.";
+
+$lang_adminmail1    = "Neue User-Registrierung bei fTip: ";
+$lang_adminmail2    = "Hallo Admin";
+$lang_adminmail3    = "Soeben hat sich ein neuer User registriert ";
+
+$lang_pwdmissmatch  = "Die <b>neuen</b> Passw&ouml;rter stimmen nicht &uuml;berein !!!";
+$lang_pwdmissmatch2 = "Die Passwšrter stimmen nicht &uuml;berein !!!";
+
+
+$lang_dataok        = "Zugangsdaten stimmen &uuml;berein !!!";
+
+$lang_createpwd     = "Das war schon ganz gut. Jetzt denk Dir ein sch&ouml;nes Passwort aus, gebe es ein und best&auml;tige es.";
+
+$lang_newpwd1       = "neues Passwort: ";
+$lang_newpwd2       = "Passwort best&auml;tigen: ";
+
+$lang_userunknown1  = "Dein Username";
+$lang_userunknown2  = "ist dem System unbekannt ! Entweder hast Du Dich vertippt, oder Du willst mich verarschen ;-) !!";
+
+$lang_checktypo     = "Hast Du Dich vertippt ?! Du musst schon Username <b>und</b> Passwort eintippen !!";
+
+$lang_giveregdata   = "Ok, dann gebe mal hier Deine vorl&auml;ufigen Userdaten ein, die Dir per E-Mail zugeschickt wurden.";
+
+$lang_username      = "Username: ";
+$lang_password      = "Passwort: ";
+
+$lang_buttonok      = "Best&auml;tigen";
+$lang_buttonpwd     = "Passwort setzen";
+
+
+?>

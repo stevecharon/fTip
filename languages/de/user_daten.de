@@ -1,0 +1,30 @@
+<?php
+
+
+
+
+
+$lang_changelang        = "Sprache wurde ge&auml;ndert auf:";
+$lang_changepic1        = "Dein Userbild wurde erneuert !";
+$lang_changepic2        = "Die &Auml;nderung wird nach dem n&auml;chsten ";
+$lang_changepic3        = "Klick";
+$lang_changepic4        = "sichtbar...";
+$lang_selectpic         = "W&auml;hle ein Bild aus...";
+$lang_remindoff         = "Remind-Funktion wurde <b>aus</b>gestellt";
+$lang_remindon          = "Remind-Funktion wurde <b>ein</b>geschaltet";
+$lang_pwdchanged        = "User-Passwort ge&auml;ndert.";
+$lang_pwdnotchanged     = "Passwort wurde <b>nicht</b> erneuert !!<br>Du hast dich bei Deinem neuen Passwort vertippt...";
+$lang_editdata          = "Hier kannst Du Deine Userdaten &auml;ndern. Um ein neues Pa&szlig;wort zu erstellen gebe zuerst Dein altes Pa&szlig;wort ein.";
+$lang_oldpwd            = "Altes Pa&szlig;wort";
+$lang_newpwd            = "Neues Pa&szlig;wort";
+$lang_newpwdagain       = "Und nochmal";
+$lang_email             = "E-Mail";
+$lang_remindmail        = "Erinnerungsmail";
+$lang_remindyes         = "ja";
+$lang_remindno          = "nein";
+$lang_language          = "Sprache:";
+$lang_changeuserpic     = "Userbildchen &auml;ndern";
+
+
+
+?>

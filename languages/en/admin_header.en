@@ -1,0 +1,23 @@
+<?php
+
+$lang_title         = "ADMIN-sites of fTip - The soccer-sweepstake-manager";
+$lang_youarenoadmin   = "You are no admin !!";
+$lang_youareanodmin2  = "go ahead";
+
+
+$lang_start         = "START";
+$lang_option        = "Options";
+$lang_wettkampf     = "Competitions: ";
+$lang_tipview       = "TipView";
+$lang_forummenu     = "ForumMenu";
+$lang_massmail      = "MassMail";
+$lang_usermenu      = "Usermenu";
+$lang_clicks        = "Clicks";
+
+$lang_forum         = "Forum";
+$lang_logoff        = "LOGOFF";
+
+
+
+
+?>

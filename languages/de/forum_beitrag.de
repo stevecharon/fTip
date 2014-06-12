@@ -1,0 +1,30 @@
+<?php
+
+
+$lang_thetitel      = "Das fTip Forum";
+$lang_the           = "Das";
+$lang_board         = "Board";
+
+$lang_threadcreated = "Beitrag erstellt";
+$lang_goback        = "zur&uuml;ck zur Forum-Auswahl";
+
+$lang_initialpost   = "Start-Beitrag";
+$lang_answernum     = "Antwort Nr";
+$lang_totalclicks   = "Gesamtklicks";
+$lang_numofposts    = "Anzahl Beitr&auml;ge";
+$lang_reggedsince   = "dabei seit";
+
+
+$lang_editposting   = "Beitrag editieren";
+$lang_killposting   = "Beitrag l&ouml;schen";
+$lang_moveposting   = "Beitrag verschieben";
+
+$lang_writeanswer   = "Antwort schreiben";
+$lang_answertitle   = "Titel";
+$lang_answerbutton  = "Antwort schreiben";
+
+$lang_addsmileys    = "Um Smileys in den Beitrag einzuf&uuml;gen verwende die entsprechenden Abk&uuml;rzungen";
+$lang_showallsmile  = "Alle Smileys ansehen";
+
+
+?>

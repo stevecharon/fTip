@@ -1,0 +1,18 @@
+<?php
+
+
+$lang_Willkommen    = "Welcome";
+$lang_pwdmissmatch  = "password does not match with username!";
+$lang_login         = "please log in....";
+$lang_username      = "username&nbsp;&nbsp;";
+$lang_password      = "password&nbsp;&nbsp;";
+$lang_buttonno      = "cancel";
+
+$lang_registernew1  = "Those who have no useraccount yet might <br> ";
+$lang_registernew2  = "register as a new user";
+$lang_registernew3  = "here";
+
+$lang_global_msg = "Please set <b>register_globals = on</b> in your php.ini!";
+
+
+?>

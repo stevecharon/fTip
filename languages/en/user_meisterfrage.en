@@ -1,0 +1,10 @@
+<?php
+
+$lang_toolate           = "too late, third matchday is already done !!!";
+$lang_selectchampion    = "please select your champion-team";
+$lang_selectchange      = "you can change your selection untill third matchday.";
+$lang_yourchampion      = "will become champion!";
+$lang_yourchampsaved    = "your selction has been saved...";
+$lang_goahead           = "go ahead";
+
+?>

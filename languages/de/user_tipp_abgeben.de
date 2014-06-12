@@ -1,0 +1,28 @@
+<?php
+
+
+$lang_tipsaved1         = "TIPS WURDEN GESPEICHERT !";
+$lang_tipsaved2         = "Sobald die Ergebnisse der Spiele vorliegen kannst Du Deine erhaltenen Punkte einsehen.";
+$lang_goahead           = "weiter";
+$lang_settipsfor        = "Tips bearbeiten f&uuml;r";
+$lang_tiptext1          = "Bedenke, da&szlig; Dein Tip f&uuml;r alle Tipprunden gilt, an denen Du teil nimmst.";
+$lang_tiptext2          = "Du kannst Deine Tips bis 1 Stunde vor jeweiligem Spielbeginn ver&auml;ndern.";
+$lang_yourchampion      = "Dein Meistertip";
+$lang_changechamp1      = "Bis zum 3. Spieltag kannst du deinen ";
+$lang_changechamp2      = "Meistertip ver&auml;ndern";
+$lang_selectmatchday    = "W&auml;hle einen Spieltag aus.";
+$lang_currentmatchday   = "Aktueller Spieltag";
+$lang_yourpoints        = "Punktvergabe f&uuml;r Deine Tips";
+
+$lang_matchday          = "Spieltag";
+$lang_date              = "Datum";
+$lang_hometeam          = "Heim";
+$lang_guestteam         = "Gast";
+$lang_goals             = "Tore";
+$lang_yoursweep         = "Tip";
+$lang_pointsgot         = "Punkte";
+$lang_gesamtpunkte      = "GESAMT";
+$lang_temporary         = "vorl&auml;ufig";
+
+
+?>

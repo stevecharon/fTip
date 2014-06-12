@@ -1,0 +1,24 @@
+<?php
+
+
+$lang_whichstatistic        = "select which statistic you would like to see";
+$lang_statisticsite         = "statistic-site";
+$lang_statisticfor          = "for";
+$lang_onmatchday            = "at matchday";
+$lang_matchdayranking       = "your ranking during matchdays";
+$lang_saisonranking         = "your ranking during competition";
+$lang_rankonday             = "matchday-ranking";
+$lang_gesamtranking         = "total ranking";
+$lang_yourpointsmatchday    = "your points per matchday";
+$lang_yourtipworth          = "what are your picks worth ?!";
+$lang_pointsfortip          = "points per pick";
+$lang_proportion            = "proportion to total points";
+
+
+$lang_kreuztabelle          = "Crossing-Table";
+$lang_kmatchday             = "Matchday";
+$lang_ktotal                = "Total";
+$lang_kpoint                = "Point";
+$lang_kpoints               = "Points";
+
+?>

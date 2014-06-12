@@ -1,0 +1,16 @@
+<?php
+
+
+$lang_threadmoved       = "Beitrag wurde verschoben !";
+$lang_areyousure1       = "Soll Beitrag";
+$lang_areyousure2       = "und alle Antworten wirklich verschoben werden ?!?!";
+$lang_wheretomove       = "Wohin soll der Beitrag verschoben werden ?";
+
+$lang_mainboard     = "fTip allgemein";
+$lang_storyboard    = "Fu&szlig;ball-Geschichten";
+$lang_cafeboard     = "fTip Cafe";
+
+
+
+
+?>

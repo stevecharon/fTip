@@ -1,0 +1,9 @@
+<?php
+
+$lang_offline       = "Forum ist derzeit offline !";
+$lang_offlinechange = "&auml;ndern";
+$lang_offlinetext1  = "Das Forum ist zur Zeit";
+$lang_offlinetext2  = "offline";
+$lang_offlinetext3  = "Wir bitten um Verst&auml;ndnis...";
+
+?>

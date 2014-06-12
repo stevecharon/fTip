@@ -1,0 +1,11 @@
+<?php
+
+$lang_newpics           = "Dieses Bild ist neu";
+$lang_nonewpics         = "keine neuen Bilder hinzugekommen...";
+$lang_savedtodatabase   = "wurde in die Datenbank gespeichert...";
+$lang_numberofpics      = "Anzahl Userbilder";
+
+
+
+
+?>

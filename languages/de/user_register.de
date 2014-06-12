@@ -1,0 +1,31 @@
+<?php
+
+$lang_register      = "Registrierung als neuer User";
+$lang_newuser1      = "Dein Username";
+$lang_newuser2      = "wurde akzeptiert, und Dir wurde eine E-Mail mit Deinen vorl&auml;ufigen Zugangsdaten an die Adresse";
+$lang_newuser3      = "gesendet. Sobald Du die Mail erhalten hast, folge diesem";
+$lang_newuser4      = "Link";
+$lang_newuser5      = "und best&auml;tige die Zugangsdaten.";
+
+$lang_usermail1     = "Registrierung bei fTip";
+$lang_usermail2     = "Hallo ";
+$lang_usermail3     = "Schoen, dass Du bei fTip mitspielen moechtest.";
+$lang_usermail4     = "In dieser Mail findest Du Deine VORLAEUFIGEN (!) Userdaten. ";
+$lang_usermail5     = "Deine fTip - Daten lauten: ";
+$lang_usermail6     = "Username: ";
+$lang_usermail7     = "Passwort: ";
+$lang_usermail8     = "Benutze diesen Link: ";
+$lang_usermail9     = "und folge den weiteren Anweisungen.";
+$lang_usermail10    = "beste Gruesse,  \r\n Dein fTip-Daemon ";
+
+$lang_erroruser1    = "Der Username ";
+$lang_erroruser2    = "ist bereits vorhanden... Bitte suche Dir einen anderen Usernamen aus..";
+$lang_errormail     = "E-Mail-Adresse fehlt...";
+
+$lang_hellouser     = "Herzlich Willkommen bei fTip. Sch&ouml;n, dass Du mit uns Fu&szlig;ballergebnisse tippen m&ouml;chtest. Um Dich dem System hinzuf&uuml;gen zu k&ouml;nnen ben&ouml;tigen wir eine E-Mail-Adresse von Dir und einen gew&uuml;nschten Usernamen.";
+
+$lang_reguser       = "Username: ";
+$lang_regmail       = "E-Mail: ";
+$lang_button        = "Anmelden";
+
+?>

@@ -1,0 +1,16 @@
+<?php
+
+$lang_title         = "fTip - the soccer-sweepstake-manager";
+$lang_youareadmin   = "you are already logged in as ADMIN !";
+$lang_youareadmin2  = "go ahead";
+$lang_start         = "START";
+$lang_userdata      = "USERDATA";
+$lang_tipprunden    = "Groups: ";
+$lang_HOF           = "HallOfFame";
+$lang_archiv        = "Archive";
+$lang_statistics    = "Statistics";
+$lang_forum         = "Forum";
+$lang_logoff        = "LOGOFF";
+
+
+?>

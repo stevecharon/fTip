@@ -1,0 +1,22 @@
+<?php
+
+
+$lang_communities       = "groups overview";
+$lang_activecompet      = "active competitions";
+$lang_activecompetext   = "For further informations, click on a competition";
+$lang_ranking           = "Rank";
+$lang_user              = "User";
+$lang_punkte            = "Points";
+$lang_noactivecomp      = "there are no active competitions";
+$lang_tryarchive        = "there is no active competition.... try clicking on archive";
+$lang_activecompet1     = "active competition";
+$lang_competranking     = "competition ranking";
+
+$lang_myrank            = "my rank :";
+$lang_matchday          = "current matchday :";
+$lang_donegames         = "number of done matches :";
+$lang_sweeps            = "set/edit/look picks";
+$lang_teams             = "teams in competition:";
+
+
+?>

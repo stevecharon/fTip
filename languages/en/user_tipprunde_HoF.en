@@ -1,0 +1,17 @@
+<?php
+
+
+$lang_selectcommunity       = "Select a group, you wish to see <b>HallOfFame</b> of.";
+$lang_ranking               = "total ranking";
+$lang_rank                  = "rank";
+$lang_user                  = "user";
+$lang_points                = "points";
+$lang_statistics            = "Statistics";
+$lang_numbermembers         = "Number of players";
+$lang_myrank                = "My current ranking";
+$lang_numberacompetitions   = "Number of active competitions";
+$lang_numberdcompetitions   = "Number of done competitions";
+$lang_numberofmatches       = "Number of done matches";
+
+
+?>

@@ -1,0 +1,16 @@
+<?php
+
+$lang_okay              = "success!";
+$lang_youaremember      = "you have been added to this group, successfully";
+$lang_goahead           = "go ahead";
+$lang_joincommunity     = "join a community";
+$lang_jointext          = "You see a list of groups which you can (theoretical) join. <br>";
+$lang_jointext         .= "To join a group, you have to type in the correct <i>group-password</i>.";
+$lang_iliketojoin       = "I would like to join group:";
+$lang_join              = "join";
+$lang_password          = "password";
+$lang_buttonjoin        = "join";
+$lang_wrongpwd          = "you entered a <b>wrong</b> password!!!";
+
+
+?>

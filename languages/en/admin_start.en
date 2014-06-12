@@ -1,0 +1,21 @@
+<?php
+
+
+$lang_hello         = "Hello admin";
+$lang_select        = "... please select a function:";
+
+$lang_wettkampf     = "Competitions";
+$lang_tiprunde      = "Groups";
+$lang_functions     = "Functions";
+
+$lang_newwettkampf  = "create new competition";
+$lang_newtiprunde   = "create new group";
+$lang_newuser       = "create new user";
+
+$lang_whohastip     = "who has set a pick?";
+$lang_changeudata   = "change userdatas";
+$lang_editpics      = "edit userpics";
+$lang_forumsetup    = "Forum-Setup";
+
+
+?>

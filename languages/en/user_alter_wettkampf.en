@@ -1,0 +1,19 @@
+<?php
+
+
+$lang_donecompetition       = "done competition";
+$lang_doneranking           = "competition ranking";
+$lang_rank                  = "Rank";
+$lang_user                  = "User";
+$lang_points                = "Points";
+$lang_first                 = "first place:";
+$lang_second                = "second place:";
+$lang_third                 = "third place:";
+$lang_myrank                = "my rank:";
+$lang_champis               = "was";
+$lang_oldsweeps             = "see old picks";
+$lang_champsweep            = "the right champion had: ";
+$lang_nobody                = "nobody";
+$lang_teams                 = "teams in competition:";
+
+?>

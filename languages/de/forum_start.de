@@ -1,0 +1,35 @@
+<?php
+
+
+$lang_thetitel      = "Das fTip Forum";
+
+$lang_boards        = "Foren";
+$lang_topic         = "Themen";
+$lang_postings      = "Beitr&auml;ge";
+$lang_lastposting   = "letzter Beitrag";
+
+
+
+
+
+//----------------------------------------------------
+// diese variablen kommen als solche auch in der datei
+// forum_functions.de vor....
+
+$lang_mainboard     = "fTip Allgemein";
+$lang_storyboard    = "Fu&szlig;ball-Geschichten";
+$lang_cafeboard     = "fTip Cafe";
+
+//----------------------------------------------------
+
+$lang_mainboardtxt  = "Alles was allgemein mit fTip zu tun hat kann hier gepostet werden. <br>Also Fragen zu Regeln, Vorschl&auml;ge f&uuml;r Neuerungen etc. ";
+$lang_storyboardtxt = "Geschichten und News rund um den Fussball geh&ouml;ren in diesen Bereich.";
+$lang_cafeboardtxt  = "Hier geh&ouml;rt alles hinein, was <b>nichts</b> mit Fussball zu tun hat. (<i>Off-Topic</i>).<br>Wetter, Hitparade, Politik, Spass, Klatsch, Tratsch und alles andere.... ";
+
+
+$lang_the           = "Das";
+$lang_groupboard1   = "Hier k&ouml;nnen die";
+$lang_groupboard2   = "-User";
+$lang_groupboard3   = "fleissig &uuml;ber ihre Tipprunde diskutieren.";
+
+?>

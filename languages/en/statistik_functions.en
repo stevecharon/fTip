@@ -1,0 +1,32 @@
+<?php
+
+
+$lang_f_yourrank        = "You are on rank";
+$lang_f_nextrank        = "Difference to rank";
+$lang_f_points          = "point(s)";           // maybe plural
+$lang_f_points2         = "points";             // plural
+$lang_f_points3         = "points";            // Akkusativ
+$lang_f_firstrank       = "Difference to first rank";
+$lang_f_meanpoints      = "On average, you score ";
+$lang_f_pointsperday    = "points a matchday";
+$lang_f_bestmean        = "best average";
+$lang_f_worstmean       = "worst average";
+
+$lang_f_allmatches      = "total matches";
+$lang_f_one             = "singles";
+$lang_f_two             = "doubles";
+$lang_f_three           = "triples";
+$lang_f_zero            = "zero";
+
+
+$lang_f_mybestresult    = "my best result";
+$lang_f_myworstresult   = "my worst result";
+$lang_f_thebestresult   = "best result has with";
+$lang_f_theworstresult  = "worst result has with";
+
+$lang_f_matchday        = "matchday";
+
+$lang_f_pointsperteam   = "points from teams";
+
+
+?>

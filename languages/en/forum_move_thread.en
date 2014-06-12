@@ -1,0 +1,16 @@
+<?php
+
+
+$lang_threadmoved       = "Thread has been moved !";
+$lang_areyousure1       = "Should thread";
+$lang_areyousure2       = "and all its answers be moved ?!?!";
+$lang_wheretomove       = "To which board do you want to move thread ?";
+
+$lang_mainboard     = "main fTip";
+$lang_storyboard    = "Soccer-Stories";
+$lang_cafeboard     = "fTip Cafe";
+
+
+
+
+?>

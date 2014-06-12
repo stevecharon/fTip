@@ -1,0 +1,42 @@
+<?php
+
+$lang_f_oclock      = "o'clock";
+$lang_f_januar      = "January";
+$lang_f_februar     = "February";
+$lang_f_march       = "March";
+$lang_f_april       = "April";
+$lang_f_may         = "May";
+$lang_f_june        = "June";
+$lang_f_july        = "July";
+$lang_f_august      = "August";
+$lang_f_september   = "September";
+$lang_f_october     = "October";
+$lang_f_november    = "November";
+$lang_f_december    = "December";
+
+$lang_f_monday      = "Monday";
+$lang_f_tuesday     = "Tuesday";
+$lang_f_wednesday   = "Wednesday";
+$lang_f_thursday    = "Thursday";
+$lang_f_friday      = "Friday";
+$lang_f_saturday    = "Saturday";
+$lang_f_sunday      = "Sunday";
+
+$lang_f_mailtail1   = "best regards,";
+$lang_f_mailtail2   = "your fTip-Demon";
+$lang_f_mailtail3   = "This mail was generated";
+$lang_f_mailtail4   = "installed on";
+
+
+$lang_f_selectmatchday  = "Please select matchday.";
+$lang_f_currentmatchday = "Current matchday";
+
+$lang_f_matchday          = "Matchday";
+$lang_f_date              = "Date";
+$lang_f_hometeam          = "Home";
+$lang_f_guestteam         = "Guest";
+$lang_f_goals             = "Goals";
+
+$lang_f_submitbutton      = "submit";
+
+?>

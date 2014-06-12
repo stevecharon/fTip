@@ -1,0 +1,27 @@
+<?php
+
+
+
+
+
+
+
+$lang_usernameinuse     = "username already in use !";
+
+$lang_tryanother        = "try another";
+
+
+$lang_newuser1          = "User";
+$lang_newuser2          = "has been created... (s)he is member of group(s) (IDs):";
+$lang_mailsubject       = "[fTip] registration at fTip";
+$lang_mailsent          = "Welcome-mail has been sent to mailaddress:";
+
+$lang_addnewuser        = "Create new user";
+
+$lang_username          = "Name";
+$lang_usermail          = "E-Mail";
+
+$lang_buttonsubmit      = "Create";
+
+
+?>

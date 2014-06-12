@@ -1,0 +1,14 @@
+<?php
+
+
+$lang_success       = "Das hat geklappt !!!";
+
+$lang_matchis1      = "Einige Spiele laufen gerade !<br>(...oder sind bereits beendet...)<br><br>Daher werden f&uuml;r manche Spiele ";
+$lang_matchis2      = "keine";
+$lang_matchis3      = "Tips &nbsp;<br>mehr entgegengenommen !";
+$lang_matchis4      = "Sobald die Ergebnisse eingetragen wurden, kannst <br> Du hier Deine erhaltenen Punkte einsehen.";
+
+$lang_pwdmissmatch  = "Die Passw&ouml;rter stimmen nicht &uuml;berein!";
+
+
+?>

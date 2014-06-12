@@ -1,0 +1,14 @@
+<?php
+
+
+$lang_selectcommunity   = "Bitte w&auml;hle eine Tipprunde aus, f&uuml;r die Du das <b>Archiv</b> einsehen willst.";
+$lang_archive           = "Tipprunden - Archiv";
+$lang_nodonecompetition = "Keine abgeschlo&szlig;enen Wettk&auml;mpfe vorhanden";
+$lang_donecompetition   = "Beendete Wettk&auml;mpfe";
+$lang_competitioninfo   = "Klicke auf einen Wettkampfnamen f&uuml;r weitere Informationen";
+$lang_rank              = "Rang";
+$lang_user              = "User";
+$lang_points            = "Punkte";
+
+
+?>

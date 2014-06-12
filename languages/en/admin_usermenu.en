@@ -1,0 +1,27 @@
+<?php
+
+$lang_usernamechanged1  = "Username";
+$lang_usernamechanged2  = "has been changed to";
+
+$lang_nameinuse1        = "Username";
+$lang_nameinuse2        = "is already in use !";
+
+$lang_mailchanged1      = "Email of user";
+$lang_mailchanged2      = "has been changed to";
+
+$lang_pwdchanged        = "Password changed for user";
+
+$lang_deleteuser        = "I deleted user";
+
+$lang_usermenu          = "Usermenu";
+$lang_numberofusers     = "Number of users";
+$lang_delete            = "del";
+$lang_edit              = "edit";
+$lang_username          = "Username";
+$lang_newpwd            = "new password";
+$lang_email             = "Mailaddress";
+$lang_heresince         = "registered since";
+$lang_buttonchange      = "Click to save your changes";
+
+
+?>

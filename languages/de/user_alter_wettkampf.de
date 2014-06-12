@@ -1,0 +1,19 @@
+<?php
+
+
+$lang_donecompetition       = "Abgeschlo&szlig;ener Wettkampf";
+$lang_doneranking           = "Abschlu&szlig;wertung";
+$lang_rank                  = "Rang";
+$lang_user                  = "User";
+$lang_points                = "Punkte";
+$lang_first                 = "Erster Platz:";
+$lang_second                = "Zweiter Platz:";
+$lang_third                 = "Dritter Platz:";
+$lang_myrank                = "Mein Platz:";
+$lang_champis               = "wurde";
+$lang_oldsweeps             = "Alte Tips einsehen";
+$lang_champsweep            = "Den richtigen Meistertipp hatte(n): ";
+$lang_nobody                = "niemand";
+$lang_teams                 = "teilnehmende Mannschaften:";
+
+?>

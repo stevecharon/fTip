@@ -1,0 +1,21 @@
+<?php
+
+
+
+$lang_groupinuse        = "Groupname is already in use !";
+
+$lang_tryanother        = "try another";
+
+
+$lang_newgroup1         = "Group";
+$lang_newgroup2         = "has been added and plays competition(s) (IDs):";
+
+$lang_addgroup          = "Add new group";
+$lang_groupname         = "Name";
+$lang_grouppwd          = "Password";
+$lang_buttonsubmit      = "Add group";
+
+
+
+
+?>

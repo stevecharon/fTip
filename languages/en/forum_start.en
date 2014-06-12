@@ -1,0 +1,33 @@
+<?php
+
+
+$lang_thetitel      = "fTip Discussionforum";
+
+$lang_boards        = "Boards";
+$lang_topic         = "Topics";
+$lang_postings      = "Postings";
+$lang_lastposting   = "last posting";
+
+
+
+
+
+//----------------------------------------------------
+// these variables appear in "forum_functions.en", too
+
+$lang_mainboard     = "fTip - main board";
+$lang_storyboard    = "soccer stories";
+$lang_cafeboard     = "fTip Cafe";
+
+//----------------------------------------------------
+
+$lang_mainboardtxt  = "Everything concidering fTip should be posted here. <br>Questions about rules, feedbacks, ideas, news etc. ";
+$lang_storyboardtxt = "This board is for soccer-stories, -news and -tales.";
+$lang_cafeboardtxt  = "This board contains everything, that has <b>nothing</b> to do with soccer (<i>Off-Topic</i>).<br>Music, Fun, Spam, Weather, Royals e.t.c.... ";
+
+$lang_the           = "The";
+$lang_groupboard1   = "Here, ";
+$lang_groupboard2   = "-users";
+$lang_groupboard3   = "can talk about their group.";
+
+?>

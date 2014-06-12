@@ -1,0 +1,10 @@
+<?php
+
+$lang_toolate           = "Der dritte Spieltag ist l&auml;ngst vorbei !!!";
+$lang_selectchampion    = "W&auml;hle die Mannschaft aus, von der Du glaubst, dass sie Meister wird";
+$lang_selectchange      = "Du kannst Deinen Tip bis zum 3. Spieltag &auml;ndern.";
+$lang_yourchampion      = "wird Meister!";
+$lang_yourchampsaved    = "Dein Tip wurde gespeichert...";
+$lang_goahead           = "weiter";
+
+?>

@@ -1,0 +1,110 @@
+fTip - the multiuser-soccer-sweepstakee-manager
+by Produnis and Durchfall-Crew 2002-2005
+
+
+LICENCE:
+========
+
+THIS SOFTWARE IS RELEASED UNDER THE GNU GENERAL PUBLIC LICENSE.
+
+http://www.gnu.org/licenses/licenses.html#GPL
+
+
+
+
+INCLUDING:
+==========
+fTip comes along with:
+  - class.jabber.php v0.4.2. (GPL distributed PHP-classes for jabber-protocol)
+    		(by Carl "Gossip" Zottmann and Nathan "Fritzy" Fritz)
+    		(available at http://cjphp.netflint.net)
+
+
+
+
+REQUIREMENTS:
+=============
+fTip requires:
+  - PHP with GD libraries and mhash()
+  - Webserver
+  - MySQL Database	
+  - jabber-account for BerND (live result service, unstable)
+  
+
+
+
+DOCU:
+=====
+
+For detailed Dokumentations please visit 
+http://www.produnis.de/fTip/
+
+For installation-docu see file INSTALLATION
+
+
+
+
+DESCRIPTION:
+============
+
+fTip provides a rich webbased admin- and userinterface.
+
+The users can put their stakes on a game on this
+webpage, and fTip compares them with the real results
+later, and calculates userrankings.
+Currently fTip supports the German Bundesliga, European
+and Worldchampionship. Support for other leagues might
+be added (relatively) easily later.
+
+fTip supports many functions as:
+ - independend user-sweepstake-groups, 
+ - detailed statistics- and userrankingpages 
+ - user-forum.
+ - if user wants, fTip sends notification
+   (stake-reminders) in case they have not put a stake,
+   and later results per email.
+ - detailed result-page
+ - live league table (of the soccer-teams)
+ - db-backup (for admin)
+ - rss-feed with results of the games
+
+
+At this time, we work on the bot BerND.
+BerND: 
+  -grabs the results of the running games from the
+internet, and then updates the fTip database... so the
+admin does not need to enter the results himself.
+  - optionally posts live-results via jabber-chat to users
+
+
+
+
+TO DO (philosophied over:)
+==========================
+- i18N support
+- no need for global variables  
+- more abstract meta-page "create new competition"
+- several minor improvements
+
+
+
+
+PLATTFORM: 
+==========
+(has been succesfully installed on:)
+- FreeBSD 
+- Linux
+- Mac OSX
+
+(might work on)
+- Windows (untested)
+
+
+
+
+CONTACT:
+========
+via jabber:  produnis@internnetz.de
+via mail: ftip@produnis.de
+
+

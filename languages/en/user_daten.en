@@ -1,0 +1,30 @@
+<?php
+
+
+
+
+
+$lang_changelang        = "language was set to: ";
+$lang_changepic1        = "your userpicture has been updated";
+$lang_changepic2        = "This update will be shown after you ";
+$lang_changepic3        = "click";
+$lang_changepic4        = "on this...";
+$lang_selectpic         = "Select a picture...";
+$lang_remindoff         = "Remind-function was turned <b>off</b>";
+$lang_remindon          = "Remind-function was turned <b>on</b>";
+$lang_pwdchanged        = "User-password has been changed.";
+$lang_pwdnotchanged     = "password has <b>not</b> been changed!!<br>Check your spelling, old and new password didn't match...";
+$lang_editdata          = "You can change your settings here. To change your password, type in your old password, too.";
+$lang_oldpwd            = "old password";
+$lang_newpwd            = "new passsword";
+$lang_newpwdagain       = "retype new";
+$lang_email             = "e-mail";
+$lang_remindmail        = "Reminder-Mail";
+$lang_remindyes         = "yes";
+$lang_remindno          = "no";
+$lang_language          = "language:";
+$lang_changeuserpic     = "change userpicture";
+
+
+
+?>

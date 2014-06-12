@@ -1,0 +1,25 @@
+<?php
+
+
+$lang_whichstatistic        = "W&auml;hle aus, welche Statistik du einsehen m&ouml;chtest";
+$lang_statisticsite         = "Statistikseite";
+$lang_statisticfor          = "f&uuml;r";
+$lang_onmatchday            = "am Spieltag";
+$lang_matchdayranking       = "Deine Tagesplatzierung an den Spieltagen";
+$lang_saisonranking         = "Deine Gesamtplatzierung &uuml;ber die Saison";
+$lang_rankonday             = "Tagesplatzierungen";
+$lang_gesamtranking         = "Gesamtplatzierungen";
+$lang_yourpointsmatchday    = "Deine Punkte pro Spieltag";
+$lang_yourtipworth          = "Was sind deine Tipps wert ?!";
+$lang_pointsfortip          = "Punkte f&uuml;r Tipp";
+$lang_proportion            = "Anteil an Gesamtpunkten";
+
+
+$lang_kreuztabelle          = "Kreuztabelle";
+$lang_kmatchday             = "Spieltag";
+$lang_ktotal                = "Gesamt";
+$lang_kpoint                = "Punkt";
+$lang_kpoints               = "Punkte";
+
+
+?>

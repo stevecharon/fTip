@@ -1,0 +1,28 @@
+<?php
+
+
+$lang_tipsaved1         = "YOUR PICKS HAVE BEEN SAVED !!!";
+$lang_tipsaved2         = "As soon as we have first match-results, you are able to see your points.";
+$lang_goahead           = "go ahead";
+$lang_settipsfor        = "edit picks for";
+$lang_tiptext1          = "please note, that your picks will be saved for all groups, you are member of.";
+$lang_tiptext2          = "you can change your picks until one our before tingler.";
+$lang_yourchampion      = "Your champion";
+$lang_changechamp1      = "Until the third matchday you are able to ";
+$lang_changechamp2      = "change your champion";
+$lang_selectmatchday    = "select a matchday.";
+$lang_currentmatchday   = "Current matchday";
+$lang_yourpoints        = "points for your picks";
+
+$lang_matchday          = "matchday";
+$lang_date              = "date";
+$lang_hometeam          = "home";
+$lang_guestteam         = "guest";
+$lang_goals             = "goals";
+$lang_yoursweep         = "picks";
+$lang_pointsgot         = "points";
+$lang_gesamtpunkte      = "TOTAL";
+$lang_temporary         = "temporary";
+
+
+?>

@@ -1,0 +1,45 @@
+<?php
+
+
+$lang_confirm       = "Confirmation of your registration";
+$lang_newpwdsaved1  = "Your <b>new</b> password has been accepted and saved !!!";
+$lang_newpwdsaved2  = "Please notice, that from now on you have to login with your <b>new</b> password";
+$lang_youreadded    = "Congratulations, you were added to the system <b>successfully</b>, so you can login with your username and new password.";
+
+$lang_step1         = "Step 1";
+$lang_step2         = "Step 2";
+$lang_step3         = "Step 3";
+
+$lang_goon1         = "Click ";
+$lang_goon2         = "this link ";
+$lang_goon3         = "to login with your new data.";
+
+$lang_adminmail1    = "New userregistration on fTip: ";
+$lang_adminmail2    = "Hello admin";
+$lang_adminmail3    = "few seconds ago, a new user registrated himself.";
+
+$lang_pwdmissmatch  = "The <b>new</b> passwords do not match! Check your spelling!";
+$lang_pwdmissmatch2 = "The passwords do not match !!!";
+
+
+$lang_dataok        = "Login-Data do match !!!";
+
+$lang_createpwd     = "That was well done. Now, create a nice password, type it in and confirm.";
+
+$lang_newpwd1       = "new password: ";
+$lang_newpwd2       = "confirm password: ";
+
+$lang_userunknown1  = "The username";
+$lang_userunknown2  = " is unknown! Please check your spelling !!";
+
+$lang_checktypo     = " Check your spelling! You have to type in username <b>and</b> password !!";
+
+$lang_giveregdata   = "Ok, please type in the userdatas, which where sent to you via e-mail.";
+
+$lang_username      = "username: ";
+$lang_password      = "password: ";
+
+$lang_buttonok      = "confirm";
+$lang_buttonpwd     = "set password";
+
+?>

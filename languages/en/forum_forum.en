@@ -1,0 +1,19 @@
+<?php
+
+
+$lang_thetitel      = "fTip Discussionforum";
+$lang_the           = "The";
+$lang_board         = "board";
+
+
+$lang_goback        = "back to boardselection";
+$lang_postnewone    = "create new thread";
+
+$lang_thispost      = "Topic";
+$lang_thisuser      = "User";
+$lang_theclicks     = "Clicks";
+$lang_theanswers    = "Answers";
+$lang_lastposting   = "last posting";
+
+
+?>

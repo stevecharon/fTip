@@ -1,0 +1,17 @@
+<?php
+
+
+$lang_selectcommunity       = "Bitte w&auml;hle eine Tipprunde aus, f&uuml;r die Du die <b>HallOfFame</b> einsehen willst.";
+$lang_ranking               = "Gesamtwertung";
+$lang_rank                  = "Platz";
+$lang_user                  = "User";
+$lang_points                = "Punktzahl";
+$lang_statistics            = "Statistik";
+$lang_numbermembers         = "Anzahl der Mitspieler";
+$lang_myrank                = "Meine aktuelle Gesamtplatzierung";
+$lang_numberacompetitions   = "Anzahl aktueller Wettk&auml;mpfe";
+$lang_numberdcompetitions   = "Anzahl abgeschlo&szlig;ener Wettk&auml;mpfe";
+$lang_numberofmatches       = "Anzahl verwerteter Spiele";
+
+
+?>

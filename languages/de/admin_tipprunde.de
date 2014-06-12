@@ -1,0 +1,25 @@
+<?php
+
+
+$lang_kickuser          = "Raus mit User";
+$lang_adduser           = "Rein mit  User";
+$lang_kickcompetition   = "Raus mit Wettkampf";
+$lang_addcompetition    = "Rein mit  Wettkampf";
+$lang_newpwd            = "Passwort wurde erneuert";
+$lang_pwdnotchanged     = "Passw&ouml;rter stimmen nicht &uuml;berein !</b> PWD wurde nicht erneuert";
+$lang_settings          = "Einstellungen";
+$lang_useroverview      = "User&uuml;bersicht";
+$lang_registered        = "angemeldet";
+$lang_registeredtxt     = "Entfernen = H&auml;kchen";
+$lang_notregistered     = "nicht angemeldet";
+$lang_notregisteredtxt  = "Anmelden = H&auml;kchen";
+$lang_buttonok          = "OK";
+$lang_warning1          = "Vorsicht !<br>Erst denken, dann &auml;ndern !";
+$lang_warning2          = "Hier kannst Du auch eine Menge falsch machen,<br> wenn Du un&uuml;berlegt klickst !!!";
+
+$lang_competitions      = "Wettk&auml;mpfe";
+$lang_grouppwd          = "Tipprunden-Passwort";
+$lang_confirm           = "bitte best&auml;tigen";
+
+
+?>

@@ -1,0 +1,17 @@
+<?php
+
+
+$lang_mailsenttouser        = "Die Mail wird an folgende User gesendet";
+
+$lang_massmail              = "Massen-E-Mail versenden";
+$lang_selectgroup           = "W&auml;hle aus, an welche Tiprunden-Mitglieder die E-Mail versendet werden soll.";
+$lang_all                   = "Alle";
+$lang_subject               = "Betreff:";
+$lang_text                  = "Text:";
+$lang_replace               = "Das Synonym &quot;USER&quot; wird in der Mail durch die individuellen Usernamen ersetzt.";
+$lang_hellouser             = "Hallo USER ...";
+$lang_buttonsend            = "Mails verschicken";
+
+
+
+?>

@@ -1,0 +1,19 @@
+<?php
+
+
+
+$lang_changessaved  = "&Auml;nderung gespeichert....";
+$lang_showmypost    = "Zum Beitrag";
+
+
+$lang_thetitel      = "Das fTip Forum";
+$lang_editposting   = "Beitrag editieren";
+$lang_addsmileys    = "Um Smileys in den Beitrag einzuf&uuml;gen verwende die entsprechenden Abk&uuml;rzungen";
+$lang_showallsmile  = "Alle Smileys ansehen";
+$lang_onlyyourown   = "Du darfst nur Deine eigenen Beitr&auml;ge bearbeiten";
+$lang_buttonsaveit  = "&Auml;nderung speichern";
+
+
+
+
+?>

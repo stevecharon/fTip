@@ -1,0 +1,29 @@
+<?php
+
+$lang_matchday          = "Matchday";
+$lang_kickoff           = "Date / Kick-Off";
+$lang_hometeam          = "Home-Team";
+$lang_guestteam         = "Guest-Team";
+$lang_result            = "Result";
+$lang_buttonsave        = "save changes";
+$lang_calcchampion      = "calculate champion-points";
+$lang_startBerND        = "start BundesligaErgebnisNachrichtenDienst";
+
+
+$lang_calculating       = "I am calculating userscores for competition";
+$lang_calculatingchanp  = "I am calculating champion-userscores for competition";
+
+$lang_nowinner          = "NO CHAMPION-TEAM IN DATABASE";
+$lang_calculatewinner   = "calculating championteam";
+$lang_lastmatch         = "Last match is not finished, yet !.....<br>aborted....";
+$lang_champis           = "Championteam ist";
+$lang_savedtodb         = "saved";
+$lang_igoon             = "Calculating userscores";
+$lang_youcanscore       = "Points users can score";
+
+
+$lang_pleasewait        = "please stand by";
+
+$lang_done              = "DONE!!!";
+
+?>

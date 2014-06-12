@@ -1,0 +1,23 @@
+<?php
+
+$lang_title         = "ADMIN-Seiten von fTip - Der Fussball-Tipp-Dienst";
+$lang_youarenoadmin   = "Du bist kein Admin !!";
+$lang_youareanodmin2  = "weiter";
+
+
+$lang_start         = "START";
+$lang_option        = "Optionen";
+$lang_wettkampf     = "Wettk&auml;mpfe: ";
+$lang_tipview       = "TipView";
+$lang_forummenu     = "ForumMen&uuml;";
+$lang_massmail      = "MassenMail";
+$lang_usermenu      = "Usermen&uuml;";
+$lang_clicks        = "Zugriffe";
+
+$lang_forum         = "Forum";
+$lang_logoff        = "LOGOFF";
+
+
+
+
+?>

@@ -1,0 +1,18 @@
+<?php
+
+$lang_title         = "fTip - Der Fussball-Tipp-Dienst";
+$lang_youareadmin   = "Du bist bereits als ADMIN eingeloggt !";
+$lang_youareadmin2  = "weiter";
+$lang_start         = "START";
+$lang_userdata      = "USERDATEN";
+$lang_tipprunden    = "Tipprunden: ";
+$lang_HOF           = "HallOfFame";
+$lang_archiv        = "Archiv";
+$lang_statistics    = "Statistik";
+$lang_forum         = "Forum";
+$lang_logoff        = "LOGOFF";
+
+
+
+
+?>

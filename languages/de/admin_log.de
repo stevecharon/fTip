@@ -1,0 +1,31 @@
+<?php
+
+
+$lang_ftipaccess            = "Zugriffe auf die fTip-Seiten";
+$lang_dayaccess             = "Zugriffe auf die fTip-Seiten am";
+$lang_monthaccess           = "Zugriffe auf die fTip-Seiten im";
+$lang_lasttwentyaccess      = "Die letzten 20 Zugriffe";
+$lang_pointintime           = "Zeitpunkt";
+$lang_user                  = "User";
+$lang_site                  = "Seite";
+$lang_ip                    = "IP";
+$lang_todayonline           = "Heute waren Online";
+$lang_frequency             = "H&auml;ufigkeit der Userzugriffe";
+$lang_mostwantedsite        = "MostWanted-Seiten";
+$lang_functions             = "Funktionen";
+$lang_analysistoday         = "Auswertung von heute";
+$lang_archive               = "Archiv";
+$lang_summaryhours          = "Stunden&uuml;bersicht f&uuml;r";
+$lang_accesses              = "Zugriffe";
+$lang_numberofusers         = "Anzahl User";
+$lang_hour                  = "Stunde:";
+$lang_month                 = "Monat";
+$lang_date                  = "Datum:";
+$lang_summarymonth          = "Monats&uuml;bersicht f&uuml;r";
+$lang_summaryyear           = "Jahres&uuml;bersicht";
+
+$lang_allaccessesofday      = "alle Zugriffe dieses Tages anzeigen";
+$lang_dateaccess            = "Zugriffe am";
+
+
+?>

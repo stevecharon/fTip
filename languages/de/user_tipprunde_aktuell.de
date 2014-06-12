@@ -1,0 +1,22 @@
+<?php
+
+
+$lang_communities       = "Tipprunden - &Uuml;bersicht";
+$lang_activecompet      = "Aktuelle Wettk&auml;mpfe";
+$lang_activecompetext   = "Klicke auf einen Wettkampfnamen f&uuml;r weitere Informationen";
+$lang_ranking           = "Platz";
+$lang_user              = "User";
+$lang_punkte            = "Punkte";
+$lang_noactivecomp      = "Keine aktuellen Wettk&auml;mpfe vorhanden";
+$lang_tryarchive        = "Kein aktueller Wettkampf vorhanden.... versuch`s mal im ARCHIV";
+$lang_activecompet1     = "Aktueller Wettkampf";
+$lang_competranking     = "Wettkampfwertung";
+
+$lang_myrank            = "Meine aktuelle Platzierung :";
+$lang_matchday          = "Aktueller Spieltag :";
+$lang_donegames         = "Anzahl verwerteter Spiele :";
+$lang_sweeps            = "Tips abgeben/bearbeiten/einsehen";
+$lang_teams             = "teilnehmende Mannschaften:";
+
+
+?>

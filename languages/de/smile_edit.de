@@ -1,0 +1,12 @@
+<?php
+
+
+$lang_taginuse      = "bereits vorhanden";
+$lang_taghaschanged = "hat sich ge&auml;ndert..";
+$lang_saved         = "gespeichert...";
+$lang_wholelist     = "Gesamtliste ansehen";
+$lang_addsmiley     = "neue Smileys hinzuf&uuml;gen";
+$lang_shortcut      = "Abk&uuml;rzung";
+$lang_buttonchange  = "Tags &auml;ndern";
+
+?>

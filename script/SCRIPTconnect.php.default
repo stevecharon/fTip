@@ -1,0 +1,18 @@
+<?php
+$dbname = "ftip";       # ersetze mit mysql-db-name
+$dbuser = "ftip";       # ersetze mit db-user
+$dbpass = "";           # und passwort
+$dbhost = "localhost";
+
+$db = @mysql_connect($dbhost, $dbuser, $dbpass);
+
+if ($db)
+{
+        mysql_select_db($dbname, $db);
+}
+/* else
+{
+        echo "<p>Idiot, hast wieder alles FALSCH GEMACHT !!";
+}
+*/
+?>

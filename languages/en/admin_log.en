@@ -1,0 +1,31 @@
+<?php
+
+
+$lang_ftipaccess            = "Accesses on fTip-Sites";
+$lang_dayaccess             = "Accesses on fTip-Sites at";
+$lang_monthaccess           = "Accesses on fTip-Sites in";
+$lang_lasttwentyaccess      = "The last 20 accesses";
+$lang_pointintime           = "point in time";
+$lang_user                  = "User";
+$lang_site                  = "Site";
+$lang_ip                    = "IP";
+$lang_todayonline           = "Today were online";
+$lang_frequency             = "Frequnecy of useraccesses";
+$lang_mostwantedsite        = "most wanted Sites";
+$lang_functions             = "Functions";
+$lang_analysistoday         = "Analysis of today";
+$lang_archive               = "Archive";
+$lang_summaryhours          = "hour-summary for";
+$lang_accesses              = "Accesses";
+$lang_numberofusers         = "Number of users";
+$lang_hour                  = "Hour:";
+$lang_month                 = "Month";
+$lang_date                  = "Date:";
+$lang_summarymonth          = "month-summary for";
+$lang_summaryyear           = "year-summary";
+
+$lang_allaccessesofday      = "show all accesses of this day";
+$lang_dateaccess            = "Accesses at";
+
+
+?>

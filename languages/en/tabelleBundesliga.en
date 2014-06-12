@@ -1,0 +1,17 @@
+<?php
+
+$lang_f_tableofteams        = "Table of teams";
+$lang_f_team                = "Team";
+$lang_f_matches             = "Matches";
+$lang_f_won                 = "W";
+$lang_f_lost                = "L";
+$lang_f_deuce               = "D";
+$lang_f_goals               = "Goals";
+$lang_f_diff                = "Diff";
+$lang_f_points              = "Points";
+$lang_f_penalty             = "penaltys are included as following";
+$lang_f_nomatches           = "no matches found";
+$lang_f_groups              = "group";
+
+
+?>

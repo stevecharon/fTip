@@ -1,0 +1,8 @@
+<?php
+
+$lang_durchschnitt      = "average:";
+$lang_gesamtschnitt     = "total avarage:";
+$lang_nomatch           = "sorry, no fixture available, yet";
+
+
+?>

@@ -1,0 +1,101 @@
+<?php
+
+
+$lang_langchange        = "admin-language has been changed to:";
+$lang_globallangchange  = "global-language has been changed to:";
+
+$lang_adminpicchange1   = "Your admin-picture has been updated !";
+$lang_adminpicchange2   = "This update will become active after you";
+$lang_adminpicchange3   = "click";
+$lang_adminpicchange4   = "here...";
+
+$lang_selectadminpic    = "Select a picture...";
+
+$lang_testmailsubject   = "[fTip] TESTMAIL";
+$lang_testmailbody      = "fTip - Testmail... \r\n";
+$lang_testmailbody     .= "does it work ?! \r\n \r\n"; 
+$lang_testmailbody     .= "sent at:";
+
+$lang_testmailtext1     = "Testmail was sendet via ";
+$lang_testmailtext2     = "to mailaddress";
+$lang_testmailtext3     = ", now.";
+
+$lang_mysqldumpstart    = "<b>MySQL Dump</b> started...";
+$lang_mysqldumpfailed   = "Database-dump failed !!!!";
+$lang_mysqldumpdone     = "done !";
+$lang_mysqldumpgzip     = "File will be compressed (gzip)";
+$lang_mysqlgzipfailed   = "gzip-compression failed !!!!";
+$lang_downloadnogzip1   = "You can download the dump-File (without compression)";
+$lang_downloadnogzip2   = "here";
+$lang_downloaddump1     = "You can download the gzip-file";
+$lang_downloaddump2     = "here";
+
+$lang_teamlogofeder     = "Team-flags have been changed to feder-logos!";
+$lang_teamlogonational  = "Team-flags have been changed to national-flags!";
+
+
+$lang_adminmailchanged  = "new mailaddress :";
+$lang_adminpwdchanged   = "Admin-password changed.";
+$lang_adminpwdnotchang  = "Password has <b>not</b> been updated !!<br>Please check your spelling...";
+$lang_newwelcometxt     = "New welcome-message has been saved";
+$lang_newremindtxt      = "New remind-text has been saved";
+$lang_newurl            = "New URL has been saved";
+$lang_newlocalpath      = "New localfile-path has been saved";
+$lang_newdaemonmail     = "New Demon-Mail-Address :";
+$lang_remindon          = "Remind-function has been set <b>on</b>";
+$lang_remindoff         = "Remind-function has been set <b>off</b>";
+$lang_jabberturnedon    = "Jabber-service has been set <b>on</b>";
+$lang_jabberturnedoff   = "Jabber-service has been set <b>off</b>";
+$lang_loggingon         = "User-clicks will now be <b>logged</b>!!!";
+$lang_loggingoff        = "User-clicks <b>won`t</b> be logged, now";
+$lang_newjabberaccount  = "New Jabber-Demon-Account :";
+$lang_newjabberpwd      = "Jabber-Demon-Password has been changed...";
+$lang_newjabbergroup    = "Jabber-Demon will send messages in groupchat";
+$lang_newWMpoints       = "Score for worldchampion-picks has been set to";
+$lang_newEMpoints       = "Score for europeanchampion-picks has been set to";
+$lang_newBULIpoints     = "Score for Bundesligachampion-picks has been set to";
+
+
+
+$lang_admindata         = "Admin-Data";
+$lang_adminmail         = "Mail";
+$lang_adminpassword     = "Admin-password";
+$lang_confirmpassword   = "confirm";
+$lang_adminlanguage     = "Admin-language:";
+$lang_buttonok          = "OK";
+$lang_pathnservice      = "Path and services";
+$lang_url               = "URL";
+$lang_localfile         = "localfile";
+$lang_maildaemon        = "Mail-Demon";
+$lang_remindmail        = "Remindmail";
+$lang_yes               = "yes";
+$lang_no                = "no";
+$lang_globallang        = "global language:";
+$lang_jabberaccount     = "Jabber-Account";
+$lang_jabberpwd         = "Jabber-PWD";
+$lang_jabbergroupchat   = "Groupchat-Room";
+$lang_jabberservice     = "Jabber-Service";
+$lang_on                = "on";
+$lang_off               = "off";
+$lang_loggclicks        = "logg clicks";
+$lang_actions           = "Actions";
+$lang_mysqldump         = "Database Backup";
+$lang_sendtextmail      = "Testmail";
+$lang_mailnewusers      = "Mail to new Users";
+$lang_mailreplace       = "USER - EMAIL - URL will be replaced";
+$lang_userremind        = "User Mail-Reminder";
+$lang_remindreplace     = "USER - EMAIL - URL- WKNAME will be replaced";
+$lang_championpoints    = "Champion-Points";
+$lang_worldchampion     = "Worldchampionship";
+$lang_eurochampion      = "Europeanchampionship";
+$lang_bundesliga        = "Bundesliga";
+$lang_buttonchange      = "change";
+$lang_teamflag          = "Teambanners";
+$lang_currentsetting    = "current setting:";
+
+$lang_nationalflag      = "Nationalflags";
+$lang_clubflag          = "Federflags";
+$lang_adminpic          = "change adminpicture";
+
+
+?>
